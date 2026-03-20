@@ -1,7 +1,7 @@
 ---
-ID: V1
-Nombre: Técnica: Geociencias y Operación
-Status: Activo
+ID: "V1"
+Nombre: "Técnica: Geociencias y Operación"
+Status: "Activo"
 ---
 
 # 🛠️ V1 | Técnica: Geociencias y Operación
