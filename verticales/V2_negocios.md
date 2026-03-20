@@ -24,8 +24,4 @@ Ejecución de la estrategia de crecimiento y captura de valor para tecnologías 
 * **Profitability:** Incremento del margen mediante la optimización de procesos técnicos.
 
 ---
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
----
 [⬅️ Volver al Índice de Verticales](./README.md)
