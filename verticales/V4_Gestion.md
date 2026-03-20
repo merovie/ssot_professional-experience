@@ -11,16 +11,17 @@ Ejecución de la **gobernanza y control de proyectos tecnológicos** de alta inc
 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle de gestión:*
-* [#TPM](../dominios/TPM.md)
-* [#ComplianceEndToEnd](../dominios/ComplianceEndToEnd.md)
-* [#ReportingRAG](../dominios/ReportingRAG.md)
-* [#MétricasDeFlujo](../dominios/MetricasDeFlujo.md)
-* [#Lean](../dominios/Lean.md)
-* [#RemociónDeBloqueos](../dominios/RemocionDeBloqueos.md)
-* [#StakeholderManagement](../dominios/StakeholderManagement.md)
-* [#TechAdoption](../dominios/TechAdoption.md)
-* [#VinculaciónEcosistémica](../dominios/VinculacionEcosistemica.md)
-* [#GobernanzaProyectos](../dominios/GobernanzaProyectos.md)
+* [Technical Project Management](../dominios/TPM.md)
+* [Compliance-End-To-End](../dominios/ComplianceEndToEnd.md)
+* [Reporting RAG](../dominios/ReportingRAG.md)
+* [Métricas De Flujo](../dominios/MetricasDeFlujo.md)
+* [Lean](../dominios/Lean.md)
+* [Remoción de Bloqueos](../dominios/RemocionDeBloqueos.md)
+* [Stakeholder Management](../dominios/StakeholderManagement.md)
+* [Tech Adoption](../dominios/TechAdoption.md)
+* [Vinculación con el Ecosistema](../dominios/VinculacionEcosistemica.md)
+* [Gobernanza de Proyectos](../dominios/GobernanzaProyectos.md)
+
 
 ## 📈 Indicadores de Impacto (KPIs)
 * **Eficiencia de Flujo:** Optimización del Lead Time y Cycle Time en el despliegue de soluciones.

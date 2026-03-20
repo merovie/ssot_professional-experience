@@ -11,9 +11,9 @@ Ejecución de la **ingeniería de requisitos y traducción técnica** para el de
 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle de esta capacidad de puente:*
-* [#TechnicalTranslation](../dominios/TechnicalTranslation.md)
+* [#Traducción Técnica](../dominios/TraduccionTecnica.md)
 * [#ProductDiscovery](../dominios/ProductDiscovery.md)
-* [#MinaToSoftware](../dominios/MinaToSoftware.md)
+* [#Mine-To-Software](../dominios/MineToSoftware.md)
 * [#ArquitecturaDeRequerimientos](../dominios/ArquitecturaDeRequerimientos.md)
 * [#UserEnablement](../dominios/UserEnablement.md)
 * [#InteroperabilidadTécnica](../dominios/InteroperabilidadTecnica.md)

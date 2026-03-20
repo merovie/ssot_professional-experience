@@ -11,11 +11,17 @@ Ejecución técnica de alto impacto en el ciclo de vida del dato minero para la 
 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle técnico (próximamente):*
-* [EstimaciónRecursos](../dominios/EstimacionRecursos.md)
+* [Estimación de Recursos](../dominios/EstimacionRecursos.md)
 * [OreControl](../dominios/OreControl.md)
-* [QAQC](../dominios/QAQC.md)
-* [AuditoriaTécnica](../dominios/AuditoriaTecnica.md)
-* [ExploraciónMinera](../dominios/ExploracionMinera.md)
+* [QA/QC](../dominios/QAQC.md)
+* [Auditoria Técnica](../dominios/AuditoriaTecnica.md)
+* [Exploración Minera](../dominios/ExploracionMinera.md)
+* [Stakeholder Management](../dominios/StakeholderManagement.md)
+* [Traducción técnica](../dominios/TraduccionTecnica.md)
+* [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
+* [Venta Consultiva](../dominios/VentaConsultivaTecnica.md)
+* [Product Discovery](../dominios/ProductDiscovery.md)
+* [Mine-to-software](../dominios/MineToSoftware.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * Precisión en la reconciliación Mina-Planta.
@@ -24,3 +30,6 @@ Ejecución técnica de alto impacto en el ciclo de vida del dato minero para la 
 
 ---
 [⬅️ Volver al Índice de Verticales](./README.md)
+
+
+`#EstimaciónRecursos`  `#OreControl` `#QAQC`  `#AuditoriaTécnica`  `#ExploraciónMinera` `#StakeholderManagement` `#TechnicalTranslation` `#InteroperabilidadTécnica` `#Lean` `#VentaConsultivaTécnica` `#ProductDiscovery` `#MinaToSoftware`

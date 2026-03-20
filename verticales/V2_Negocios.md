@@ -11,12 +11,20 @@ Ejecución de la estrategia de crecimiento y captura de valor para tecnologías 
 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle estratégico (próximamente):*
-* [#DesarrolloNegocios](../dominios/DesarrolloNegocios.md)
-* [#GoToMarket](../dominios/GoToMarket.md)
-* [#CapitalAllocation](../dominios/CapitalAllocation.md)
-* [#VentaConsultivaTécnica](../dominios/VentaConsultivaTecnica.md)
-* [#ValorizaciónTecnológica](../dominios/ValorizacionTecnologica.md)
-* [#FondosPúblicos](../dominios/FondosPublicos.md)
+* [Desarrollo de Negocios](../dominios/DesarrolloNegocios.md)
+* [Go-To-Market](../dominios/GoToMarket.md)
+* [Capital Allocation](../dominios/CapitalAllocation.md)
+* [Venta Consultiva](../dominios/VentaConsultiva.md)
+* [Valorización Tecnológica](../dominios/ValorizacionTecnologica.md)
+* [Fondos Públicos](../dominios/FondosPublicos.md)
+* [Fidelización](../dominios/Fidelizacion.md)
+* [Account Management](../dominios/AccountManagement.md)
+* [Escalamiento Internacional](../dominios/EscalamientoInternacional.md)
+* [Maduración Tecnológica](../dominios/MaduracionTecnologica.md)
+* [Lean](../dominios/Lean.md)
+* [Traduccion Técnica](../dominios/TraduccionTecnica.md)
+* [Stakeholder Management](../dominios/StakeholderManagement.md)
+* [Mine-To-Software](../dominios/MineToSoftware.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * **Capital levantado:** Gestión exitosa de fondos públicos/privados (Ej: USD $1M).
