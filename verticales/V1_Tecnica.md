@@ -21,7 +21,7 @@ Ejecución técnica de alto impacto en el ciclo de vida del dato minero para la 
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 * [Venta Consultiva](../dominios/VentaConsultivaTecnica.md)
 * [Product Discovery](../dominios/ProductDiscovery.md)
-* [Mine-to-software](../dominios/MineToSoftware.md)
+* [Mine-to-Software](../dominios/MineToSoftware.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * Precisión en la reconciliación Mina-Planta.

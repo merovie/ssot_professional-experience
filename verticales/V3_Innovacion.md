@@ -23,7 +23,6 @@ Ejecución del **Product Discovery** y validación de soluciones minero-tecnoló
 * [Valorización Tecnológica](../dominios/ValorizacionTecnologica.md)
 * [Gobernanza de Proyectos](../dominios/GobernanzaProyectos.md)
 * [Capital Allocation](../dominios/CapitalAllocation.md)
-* [Fondos Públicos](../dominios/FondosPublicos.md)
 * [Fidelización](../dominios/Fidelizacion.md)
 * [Go-To-Market](../dominios/GoToMarket.md)
 * [Lean](../dominios/Lean.md)
