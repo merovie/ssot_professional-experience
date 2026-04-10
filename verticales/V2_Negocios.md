@@ -22,9 +22,9 @@ Ejecución de la estrategia de crecimiento y captura de valor para tecnologías 
 * [Escalamiento Internacional](../dominios/EscalamientoInternacional.md)
 * [Maduración Tecnológica](../dominios/MaduracionTecnologica.md)
 * [Lean](../dominios/Lean.md)
-* [Traduccion Técnica](../dominios/TraduccionTecnica.md)
+* [Traducción Técnica](../dominios/TraduccionTecnica.md)
 * [Stakeholder Management](../dominios/StakeholderManagement.md)
-* [Mine-To-Software](../dominios/MineToSoftware.md)
+* [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * **Capital levantado:** Gestión exitosa de fondos públicos/privados (Ej: USD $1M).

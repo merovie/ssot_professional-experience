@@ -12,16 +12,14 @@ Ejecución técnica de alto impacto en el ciclo de vida del dato minero para la 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle técnico (próximamente):*
 * [Estimación de Recursos](../dominios/EstimacionRecursos.md)
-* [OreControl](../dominios/OreControl.md)
+* [Ore Control](../dominios/OreControl.md)
 * [QA/QC](../dominios/QAQC.md)
-* [Auditoria Técnica](../dominios/AuditoriaTecnica.md)
+* [Auditoría Técnica](../dominios/AuditoriaTecnica.md)
 * [Exploración Minera](../dominios/ExploracionMinera.md)
 * [Stakeholder Management](../dominios/StakeholderManagement.md)
 * [Traducción técnica](../dominios/TraduccionTecnica.md)
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 * [Venta Consultiva](../dominios/VentaConsultivaTecnica.md)
-* [Product Discovery](../dominios/ProductDiscovery.md)
-* [Mine-to-Software](../dominios/MineToSoftware.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * Precisión en la reconciliación Mina-Planta.

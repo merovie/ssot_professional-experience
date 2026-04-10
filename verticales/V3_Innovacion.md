@@ -18,7 +18,6 @@ Ejecución del **Product Discovery** y validación de soluciones minero-tecnoló
 * [I+D](../dominios/ID.md)
 * [Maduración Tecnológica](../dominios/MaduraciónTecnológica.md)
 * [Tech Adoption](../dominios/TechAdoption.md)
-* [Mine-To-Software](../dominios/MineToSoftware.md)
 * [User Enablement](../dominios/UserEnablement.md)
 * [Valorización Tecnológica](../dominios/ValorizacionTecnologica.md)
 * [Gobernanza de Proyectos](../dominios/GobernanzaProyectos.md)
@@ -29,6 +28,7 @@ Ejecución del **Product Discovery** y validación de soluciones minero-tecnoló
 * [Remoción de Bloqueos](../dominios/RemocionDeBloqueos.md)
 * [Stakeholder Management](../dominios/StakeholderManagement.md)
 * [Vinculación con el Ecosistema](../dominios/VinculacionEcosistemica.md)
+* [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * **Time-to-Market:** Velocidad de validación de hipótesis críticas.

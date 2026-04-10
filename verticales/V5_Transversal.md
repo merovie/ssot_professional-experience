@@ -1,6 +1,6 @@
 ---
 ID: "V5"
-Nombre: "Transversal: Technical Translation"
+Nombre: "Transversal: XXX"
 Status: "Activo"
 ---
 
@@ -11,12 +11,12 @@ Ejecución de la **ingeniería de requisitos y traducción técnica** para el de
 
 ## 🧠 Dominios Asociados
 *Haz clic en cada dominio para ver el detalle de esta capacidad de puente:*
-* [#Traducción Técnica](../dominios/TraduccionTecnica.md)
-* [#ProductDiscovery](../dominios/ProductDiscovery.md)
-* [#Mine-To-Software](../dominios/MineToSoftware.md)
-* [#ArquitecturaDeRequerimientos](../dominios/ArquitecturaDeRequerimientos.md)
-* [#UserEnablement](../dominios/UserEnablement.md)
-* [#InteroperabilidadTécnica](../dominios/InteroperabilidadTecnica.md)
+* [Traducción Técnica](../dominios/TraduccionTecnica.md)
+* [Arquitectura de Requerimientos](../dominios/ArquitecturaDeRequerimientos.md)
+* [User Enablement](../dominios/UserEnablement.md)
+* [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
+* [Stakeholder Management](../dominios/StakeholderManagement.md)
+* [Lean](../dominios/Lean.md)
 
 ## 📈 Indicadores de Impacto (KPIs)
 * **Fidelidad de Requisitos:** Reducción del retrabajo (re-work) en desarrollo de software debido a malentendidos funcionales.
