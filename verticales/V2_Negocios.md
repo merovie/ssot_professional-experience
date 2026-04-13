@@ -19,7 +19,6 @@ Ejecución de la estrategia de crecimiento y captura de valor para tecnologías 
 * [Fondos Públicos](../dominios/FondosPublicos.md)
 * [Fidelización](../dominios/Fidelizacion.md)
 * [Account Management](../dominios/AccountManagement.md)
-* [Escalamiento Internacional](../dominios/EscalamientoInternacional.md)
 * [Maduración Tecnológica](../dominios/MaduracionTecnologica.md)
 * [Lean](../dominios/Lean.md)
 * [Traducción Técnica](../dominios/TraduccionTecnica.md)

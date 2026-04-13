@@ -12,7 +12,7 @@ Evaluación sistemática e independiente de procesos, datos y modelos para garan
 ## 🛠️ Ejes de Acción
 * **Análisis Crítico de Geoestadística:** Evaluación de la idoneidad de variogramas, elipsoides de búsqueda y estrategias de interpolación para evitar el suavizamiento o la sobreestimación de leyes.
 * **Shadow Estimation (Estimación Espejo):** Replicación independiente de modelos y estimaciones realizadas por entidades externas para asegurar que los parámetros de variografía, capping y elipsoides de búsqueda sean técnicamente defendibles.
-* ***Debido Proceso (Due Diligence) de Activos Mineros:**  Identificación de riesgos críticos en etapas tempranas. Revisión de la metodología de categorización (Medidos, Indicados, Inferidos). 
+* **Debido Proceso (Due Diligence) de Activos Mineros:**  Identificación de riesgos críticos en etapas tempranas. Revisión de la metodología de categorización (Medidos, Indicados, Inferidos). 
 * **Revisión Crítica de Parámetros:** Evaluación de variografía, elipsoides de búsqueda y estrategias de octantes para evitar suavizamiento.
 * **Validación de Categorización:** Auditoría de criterios de clasificación de recursos (Medidos, Indicados e Inferidos).
 * **Interpretación de Reportes Públicos:** Análisis profundo de informes técnicos bajo códigos NI 43-101 y JORC, con enfoque en la reconciliación de Reservas y Recursos (R&R).
