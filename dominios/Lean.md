@@ -18,7 +18,6 @@ Maximizo la eficiencia operativa mediante la eliminación sistemática de desper
 * **Desarrollo Basado en Hipótesis:** No ejecuto tareas porque "están en el plan", sino porque validan una hipótesis. Cada incremental del roadmap tiene una métrica asociada; si el incremental no mueve la aguja, analizamos la causa raíz del desvío y ajustamos el siguiente ciclo.
 
 ## 🤝 Habilidades Core
-
 * **Pensamiento Analítico Profundo:** Capacidad para desglosar problemas complejos hasta sus componentes más básicos.
 * **Disciplina de Ejecución:** Firmeza para mantener los límites de trabajo y los ritmos de entrega sin sacrificar la calidad técnica.
 * **Foco en el Valor (Customer-Centric):** Mentalidad obsesiva por eliminar todo lo que el cliente no perciba como valor o por lo que no esté dispuesto a "pagar" (en tiempo o dinero).

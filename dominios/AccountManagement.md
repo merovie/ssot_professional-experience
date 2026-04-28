@@ -19,14 +19,12 @@ Fomento la **predictibilidad de los ingresos** y la **protección del Customer L
 * **Orquestación de Equipos y Feedback Loop:** Coordino la respuesta interna (ingenieros, geólogos, I+D) para atender requerimientos críticos, transformando las quejas u observaciones operativas en mejoras reales del producto.
 * **Monitoreo de Salud de la Cuenta (Health Score):** Implemento el uso de métricas y diagnósticos preventivos para detectar riesgos de abandono de forma temprana y ajustar la propuesta de valor.
 
-## 🤝 Habilidades Core (Ejecución)
+## 🤝 Habilidades Core
 * **Escucha de Diagnóstico para Ventas:** Capacidad de extraer requerimientos no explicitados mediante la observación del flujo de trabajo y transformar una "queja operativa" en un requerimiento técnico facturable.
 * **Integridad y Credibilidad Técnica:** Mi background como geóloga de recursos me permite negociar desde una posición de autoridad técnica, generando la confianza necesaria para defender la consistencia y trazabilidad de la información.
 * **Empatía Operativa:** Entendimiento profundo de la presión del día a día en faena para ofrecer soluciones que optimicen sin interrumpir la operación.
 * **Storytelling de Eficiencia:** Estructuración de informes y presentaciones finales que resaltan el beneficio operativo obtenido, facilitando la justificación interna del gasto por parte del cliente ante sus niveles ejecutivos.
 * **Resiliencia en Ciclos Largos:** Maestría en mantener el compromiso del cliente durante procesos de implementación extensos, gestionando expectativas y celebrando "quick wins".
-
-
 
 ## 📂 Evidencia en Proyectos
 * [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
