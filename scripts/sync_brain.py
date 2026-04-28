@@ -42,13 +42,22 @@ class BibliotecarioCompleto(FileSystemEventHandler):
 
         # 1. Procesar Verticales
         for f in self.ruta_verticales.glob("*.md"):
+            if f.stem.lower() == "readme": continue
             info = self.procesar_archivo(f)
             if info: datos_finales["verticales"].append(info)
 
         # 2. Procesar Dominios
         for f in self.ruta_dominios.glob("*.md"):
+            if f.stem.lower() == "readme": continue
             info = self.procesar_archivo(f)
             if info: datos_finales["dominios"].append(info)
+            
+        # Validación de consistencia (opcional: imprimir alertas de verticales huérfanas)
+        ids_verticales = {v["id"] for v in datos_finales["verticales"]}
+        for d in datos_finales["dominios"]:
+            for v_id in d["verticales"]:
+                if v_id not in ids_verticales:
+                    print(f"⚠️ Alerta: Dominio {d['id']} usa vertical {v_id} no definida.")
 
         # 3. Guardar el Libro Maestro
         with open(self.archivo_salida, 'w', encoding='utf-8') as f:

@@ -6,7 +6,7 @@ Verticales: ["V3"]
 
 # #MaduraciónTecnológica
 
-💎 Valor Estratégico
+## 💎 Valor Estratégico
 Gestión del ciclo de vida del desarrollo tecnológico para reducir la incertidumbre técnica y asegurar la escalabilidad. Mi enfoque garantiza que la I+D+i no se detenga en la fase teórica, sino que avance a través de hitos de validación rigurosos hasta alcanzar la madurez necesaria para su despliegue en entornos operativos reales.
 
 🛠️ Ejes de Acción

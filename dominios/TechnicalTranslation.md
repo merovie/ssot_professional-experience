@@ -1,7 +1,7 @@
 ---
 ID: "#TechnicalTranslation"
 Nombre: "Technical Translation"
-Verticales: ["V1", "V2", "V3", "V4", "V5"]
+Verticales: ["V1", "V2", "V3", "V4"]
 ---
 
 # #TechnicalTranslation

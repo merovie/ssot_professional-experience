@@ -1,13 +1,6 @@
 {
     "verticales": [
         {
-            "id": "README",
-            "nombre": "README",
-            "verticales": [],
-            "resumen": "Sin descripción",
-            "archivo": "README.md"
-        },
-        {
             "id": "V1",
             "nombre": "Técnica: Geociencias y Operación",
             "verticales": [],
@@ -156,8 +149,7 @@
                 "V1",
                 "V2",
                 "V3",
-                "V4",
-                "V5"
+                "V4"
             ],
             "resumen": "Actúo como el integrador crítico que alinea los objetivos divergentes de las distintas áreas del negocio. Mi valor radica en asegurar que la información y las metas sean interoperables entre departamentos, eliminando silos operativos y garantizando que la estrategia sea adoptable por la operación y monetizable.",
             "archivo": "InteroperabilidadTecnica.md"
@@ -178,7 +170,7 @@
             "verticales": [
                 "V3"
             ],
-            "resumen": "Sin descripción",
+            "resumen": "Gestión del ciclo de vida del desarrollo tecnológico para reducir la incertidumbre técnica y asegurar la escalabilidad. Mi enfoque garantiza que la I+D+i no se detenga en la fase teórica, sino que avance a través de hitos de validación rigurosos hasta alcanzar la madurez necesaria para su despliegue en entornos operativos reales.\n\n🛠️ Ejes de Acción\n* **Gestión del Roadmap de TRL (Technology Readiness Level):** Defino y superviso el avance de la tecnología a través de las etapas de madurez (del TRL 1 al 9). Establezco los KPis técnicos necesarios para \"saltar\" de una etapa a otra, asegurando que cada nivel de madurez esté respaldado por datos.\n* **Diseño y Ejecución de Pruebas de Concepto (PoC):** Estructuro experimentos controlados para validar las hipótesis críticas de la tecnología con el menor uso de recursos posible. El objetivo es fallar rápido o confirmar la viabilidad técnica inicial.\n* **Escalamiento de Prototipado (MVP a Producto):** Coordino la transición de un prototipo de laboratorio a un Producto Mínimo Viable funcional. Superviso que las funcionalidades core se mantengan estables mientras se añaden capas de robustez necesarias para el entorno industrial.\n* **Validación en Entorno Relevante (Pilotaje):** Lidero el despliegue de pilotos en faena o entornos simulados de alta fidelidad. Gestiono la captura de datos en tiempo real para identificar fallos de borde (edge cases) que no aparecen en el laboratorio.\n* **Gestión de Riesgos Tecnológicos:** Identifico cuellos de botella técnicos (latencia, precisión de algoritmos, compatibilidad de hardware) y diseño planes de mitigación para evitar que el desarrollo se estanque.\n* **Documentación del \"Technical File\":** Sistematizo todo el historial de versiones, fallos, correcciones y resultados de pruebas. Esta documentación es la base técnica que luego alimenta la #ValorizacionTecnologica y los procesos de #PropiedadIntelectual.\n\n🤝 Habilidades Core\n* **Rigurosidad Metodológica:** Capacidad para diseñar pruebas que no dejen lugar a dudas sobre el rendimiento de la tecnología.\n* **Visión Crítica de Ingeniería:** Habilidad para detectar debilidades en el diseño técnico que podrían comprometer la escalabilidad futura.\n* **Interlocución Técnica:** Capacidad de guiar a los desarrolladores o ingenieros de campo hacia los objetivos de madurez comercial sin perder la profundidad técnica.",
             "archivo": "MaduracionTecnologica.md"
         },
         {
@@ -218,13 +210,6 @@
             "archivo": "QAQC.md"
         },
         {
-            "id": "README",
-            "nombre": "README",
-            "verticales": [],
-            "resumen": "Sin descripción",
-            "archivo": "README.md"
-        },
-        {
             "id": "#RemociónDeBloqueos",
             "nombre": "Remoción de Bloqueos",
             "verticales": [
@@ -259,8 +244,7 @@
                 "V1",
                 "V2",
                 "V3",
-                "V4",
-                "V5"
+                "V4"
             ],
             "resumen": "Transformo la resistencia al cambio en adopción mediante una narrativa y gestión de expectativas basada en datos y empatía técnica. Mi valor radica en identificar los \"dolores\" específicos de cada actor (desde el usuario o cliente hasta el C-Suite) y traducir el avance tecnológico en beneficios tangibles para sus respectivos KPIs, asegurando la continuidad del financiamiento y la viabilidad operativa de los proyectos.",
             "archivo": "StakeholderManagement.md"
@@ -272,8 +256,7 @@
                 "V1",
                 "V2",
                 "V3",
-                "V4",
-                "V5"
+                "V4"
             ],
             "resumen": "Actúo como el nodo de inteligencia que conecta la ciencia con la lógica digital y el impacto en el negocio. Mi enfoque no es el \"producto\" como un objeto, sino el aporte de valor que genera en la operación. Poseo la capacidad de sintetizar información compleja y explicarla en simple, asegurando que cada línea de código tenga un propósito económico y técnico claro.",
             "archivo": "TechnicalTranslation.md"
