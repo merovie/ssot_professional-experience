@@ -1,7 +1,7 @@
 ---
 ID: "#Lean"
 Nombre: "Lean"
-Verticales: ["#V3", "#V4"]
+Verticales: ["V3", "V4"]
 ---
 
 # #Lean

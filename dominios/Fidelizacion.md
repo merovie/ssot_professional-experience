@@ -1,7 +1,7 @@
 ---
 ID: "#Fidelización"
 Nombre: "Fidelización"
-Verticales: ["#V2"]
+Verticales: ["V2"]
 ---
 
 # #Fidelización

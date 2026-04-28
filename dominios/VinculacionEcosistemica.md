@@ -1,7 +1,7 @@
 ---
 ID: "#VinculaciónEcosistémica"
 Nombre: "Vinculación Ecosistémica"
-Verticales: ["#V3", "#V4"]
+Verticales: ["V3", "V4"]
 ---
 
 # #VinculaciónEcosistémica

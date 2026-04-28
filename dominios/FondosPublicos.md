@@ -1,7 +1,7 @@
 ---
 ID: "#FondosPúblicos"
 Nombre: "Captura de Fondos Públicos"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #FondosPúblicos

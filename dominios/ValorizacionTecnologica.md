@@ -1,7 +1,7 @@
 ---
 ID: "#ValorizaciónTecnológica"
 Nombre: "Valorización Tecnológica"
-Verticales: ["#V2", "#V3"]
+Verticales: ["V2", "V3"]
 ---
 
 # #Valorización Tecnológica

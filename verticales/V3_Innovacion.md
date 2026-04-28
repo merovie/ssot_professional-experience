@@ -29,10 +29,5 @@ Ejecución del **Product Discovery** y validación de soluciones minero-tecnoló
 * [Vinculación con el Ecosistema](../dominios/VinculacionEcosistemica.md)
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 
-## 📈 Indicadores de Impacto (KPIs)
-* **Time-to-Market:** Velocidad de validación de hipótesis críticas.
-* **Nivel de Madurez (TRL):** Progreso medible de la tecnología desde prototipo a entorno real.
-* **Product-Market Fit:** Grado de resolución del "dolor" operativo identificado en terreno.
-
 ---
 [⬅️ Volver al Índice de Verticales](./README.md)

@@ -1,7 +1,7 @@
 ---
 ID: "#IDi"
 Nombre: "Gestión de I+D+i"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #GestionIDi

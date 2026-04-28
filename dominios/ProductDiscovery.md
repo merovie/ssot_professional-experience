@@ -1,7 +1,7 @@
 ---
 ID: "#ProductDiscovery"
 Nombre: "Product Discovery Continuo"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #ProductDiscovery

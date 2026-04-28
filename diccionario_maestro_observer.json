@@ -1,0 +1,332 @@
+{
+    "verticales": [
+        {
+            "id": "README",
+            "nombre": "README",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "README.md"
+        },
+        {
+            "id": "V1",
+            "nombre": "Técnica: Geociencias y Operación",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "V1_Tecnica.md"
+        },
+        {
+            "id": "V2",
+            "nombre": "Negocio: Growth & Strategy",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "V2_Negocios.md"
+        },
+        {
+            "id": "V3",
+            "nombre": "Estrategia: Innovación y Producto",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "V3_Innovacion.md"
+        },
+        {
+            "id": "V4",
+            "nombre": "Gestión: Operaciones y Agilidad",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "V4_Gestion.md"
+        }
+    ],
+    "dominios": [
+        {
+            "id": "#AccountManagement",
+            "nombre": "Account Management & Strategic Growth",
+            "verticales": [
+                "V2",
+                "V3",
+                "V4"
+            ],
+            "resumen": "Fomento la **predictibilidad de los ingresos** y la **protección del Customer Lifetime Value (LTV)** mediante un seguimiento técnico riguroso. Mi función es mitigar el riesgo de fuga de clientes (*churn*) a través de la validación constante de los entregables y la identificación temprana de nuevas necesidades operativas. Actúo como el nexo que viabiliza la transición de una consultoría puntual hacia una relación de servicio recurrente y escalable.",
+            "archivo": "AccountManagement.md"
+        },
+        {
+            "id": "#ArquitecturaDeRequerimientos",
+            "nombre": "Arquitectura de Requerimientos",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Orquestación y diseño del ecosistema de necesidades que asegura la alineación entre la visión de negocio y la ejecución técnica. Su valor reside en transformar la ambigüedad en especificaciones accionables y agnósticas, garantizando que el sistema sea escalable, sostenible y que cada componente desarrollado responda a un propósito de negocio validado.",
+            "archivo": "ArquitecturaDeRequerimientos.md"
+        },
+        {
+            "id": "#AuditoríaTécnica",
+            "nombre": "Auditoría Técnica",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Evaluación sistemática e independiente de procesos, datos y modelos para garantizar la integridad técnica y mitigación de riesgos operativos/financieros.",
+            "archivo": "AuditoriaTecnica.md"
+        },
+        {
+            "id": "#CapitalAllocation",
+            "nombre": "Capital Allocation",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Aseguro la eficiencia del capital invertido en innovación mediante una distribución de recursos basada en la reducción de incertidumbre. Mi enfoque evita el despilfarro en proyectos de baja probabilidad de éxito, priorizando inversiones que validen supuestos críticos y aceleren el tiempo de llegada al mercado (Time-to-Market) de activos tecnológicos de alto valor.",
+            "archivo": "CapitalAllocation.md"
+        },
+        {
+            "id": "#DesarrolloNegocios",
+            "nombre": "Desarrollo de Negocios",
+            "verticales": [
+                "V2"
+            ],
+            "resumen": "Diseño y opero la arquitectura de crecimiento que transforma capacidades técnicas en ingresos sostenibles. Mi enfoque se centra en la construcción de un ecosistema donde el marketing, la estrategia de ventas B2B y el análisis de métricas convergen para validar el modelo de negocio y escalar la presencia en el mercado. No solo busco la venta, sino la creación de un motor de adquisición predecible y eficiente.",
+            "archivo": "DesarrolloNegocios.md"
+        },
+        {
+            "id": "#EstimaciónRecursos",
+            "nombre": "Estimación de Recursos",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Competencia experta en la cuantificación de la variabilidad espacial y el riesgo geológico para la valorización de activos mineros. Mi enfoque asegura que los modelos de bloques no sean solo representaciones geométricas, sino activos financieros auditables que permitan una toma de decisiones robusta en la planificación minera y la valorización de activos.",
+            "archivo": "EstimacionRecursos.md"
+        },
+        {
+            "id": "#ExploraciónMinera",
+            "nombre": "Exploración Minera",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Ejecución y supervisión de programas de exploración geológica orientados al descubrimiento, delimitación y expansión de recursos minerales.",
+            "archivo": "ExploracionMinera.md"
+        },
+        {
+            "id": "#Fidelización",
+            "nombre": "Fidelización",
+            "verticales": [
+                "V2"
+            ],
+            "resumen": "Estrategias orientadas a la retención de clientes mediante la garantía de que la tecnología sea un activo indispensable.",
+            "archivo": "Fidelizacion.md"
+        },
+        {
+            "id": "#FondosPúblicos",
+            "nombre": "Captura de Fondos Públicos",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Maximizo la capacidad de ejecución de I+D mediante el levantamiento de capital no diluyente. Mi enfoque transforma una necesidad tecnológica en un proyecto elegible para el Estado, asegurando el financiamiento del 80% del capital necesario para proyectos de alta incertidumbre, optimizando el flujo de caja de la empresa y mitigando el riesgo financiero de la innovación.",
+            "archivo": "FondosPublicos.md"
+        },
+        {
+            "id": "#GobernanzaProyectos",
+            "nombre": "Gobernanza de Proyectos",
+            "verticales": [
+                "V3",
+                "V4"
+            ],
+            "resumen": "Establecimiento del marco de autoridad, toma de decisiones y rendición de cuentas que garantiza la alineación de los proyectos con los objetivos estratégicos de la organización. Su valor reside en proporcionar transparencia, mitigar riesgos estructurales y asegurar que la inversión en tecnología y procesos se traduzca en beneficios tangibles y sostenibles.",
+            "archivo": "GobernanzaProyectos.md"
+        },
+        {
+            "id": "#GoToMarket",
+            "nombre": "Go-to-Market",
+            "verticales": [
+                "V2",
+                "V3"
+            ],
+            "resumen": "Diseño la hoja de ruta estratégica para introducir soluciones tecnológicas complejas en mercados industriales. Mi valor reside en reducir el Time-to-Market y asegurar el Product-Market Fit inicial, alineando las capacidades del equipo de desarrollo con las realidades comerciales. Transformo una \"herramienta técnica\" en una \"solución de negocio\" indispensable, orquestando el lanzamiento desde la fase beta hasta la captura de los primeros Early Adopters.",
+            "archivo": "GoToMarket.md"
+        },
+        {
+            "id": "#IDi",
+            "nombre": "Gestión de I+D+i",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Aseguro la viabilidad y el retorno de la inversión en proyectos de base científico-tecnológica. Mi enfoque consiste en transformar la incertidumbre propia de la investigación en un portafolio de activos gestionables, equilibrando la exploración de nuevas tecnologías con la rigurosidad financiera y el cumplimiento de hitos ante organismos financiadores (ANID, CORFO) y stakeholders privados.",
+            "archivo": "IDi.md"
+        },
+        {
+            "id": "#InteroperabilidadTecnica",
+            "nombre": "Interoperabilidad de Ecosistemas (Alineación Multidisciplinaria)",
+            "verticales": [
+                "V1",
+                "V2",
+                "V3",
+                "V4",
+                "V5"
+            ],
+            "resumen": "Actúo como el integrador crítico que alinea los objetivos divergentes de las distintas áreas del negocio. Mi valor radica en asegurar que la información y las metas sean interoperables entre departamentos, eliminando silos operativos y garantizando que la estrategia sea adoptable por la operación y monetizable.",
+            "archivo": "InteroperabilidadTecnica.md"
+        },
+        {
+            "id": "#Lean",
+            "nombre": "Lean",
+            "verticales": [
+                "V3",
+                "V4"
+            ],
+            "resumen": "Maximizo la eficiencia operativa mediante la eliminación sistemática de desperdicios (*muda*) y el enfoque en la entrega continua de valor. Mi metodología se basa en fallar rápido y barato para aprender pronto, utilizando el análisis de causa raíz para evitar la recurrencia de errores y asegurar que cada ciclo de desarrollo (incremental) acerque el producto a la excelencia técnica y operativa.",
+            "archivo": "Lean.md"
+        },
+        {
+            "id": "#MaduraciónTecnológica",
+            "nombre": "Maduración Tecnológica",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Sin descripción",
+            "archivo": "MaduracionTecnologica.md"
+        },
+        {
+            "id": "#MVP",
+            "nombre": "Minimum Viable Product",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Transformo hipótesis validadas en productos funcionales mínimos que permiten recolectar la mayor cantidad de aprendizaje con el menor esfuerzo de desarrollo. Mi enfoque evita el \"over-engineering\", asegurando que los recursos de I+D se inviertan solo en funcionalidades que han demostrado ser críticas para el usuario y el negocio.",
+            "archivo": "MVP.md"
+        },
+        {
+            "id": "#OreControl",
+            "nombre": "Ore Control",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Ejecución de la geociencia operacional para la optimización de la selectividad, clasificación y destino del mineral en tiempo real, maximizando la recuperación metalúrgica y minimizando la dilución.",
+            "archivo": "OreControl.md"
+        },
+        {
+            "id": "#ProductDiscovery",
+            "nombre": "Product Discovery Continuo",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Implemento un proceso estructurado y semanal para decidir qué construir, asegurando que cada desarrollo tecnológico cree valor real para el cliente y resultados para el negocio. El objetivo es transitar de un modelo de \"entrega de funcionalidades\" a uno de \"entrega de resultados\", reduciendo el riesgo de construir soluciones que nadie adopta.",
+            "archivo": "ProductDiscovery.md"
+        },
+        {
+            "id": "#QAQC",
+            "nombre": "QA/QC",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Implementación y supervisión de protocolos sistemáticos para garantizar la trazabilidad, precisión y representatividad de la información geocientífica bajo estándares internacionales (NI 43-101, JORC).",
+            "archivo": "QAQC.md"
+        },
+        {
+            "id": "README",
+            "nombre": "README",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "README.md"
+        },
+        {
+            "id": "#RemociónDeBloqueos",
+            "nombre": "Remoción de Bloqueos",
+            "verticales": [
+                "V3",
+                "V4"
+            ],
+            "resumen": "Maximización de la fluidez operacional y técnica mediante la identificación y eliminación proactiva de obstáculos que detienen el progreso. Su valor reside en reducir la fricción sistémica, optimizar el *time-to-value* y garantizar que el ecosistema del gemelo digital opere de forma continua, evitando el estancamiento por deudas técnicas, burocráticas o relacionales.",
+            "archivo": "RemocionDeBloqueos.md"
+        },
+        {
+            "id": "#ReportingRAG",
+            "nombre": "Reporting RAG",
+            "verticales": [
+                "V4"
+            ],
+            "resumen": "Transformación de datos operativos y técnicos en indicadores visuales de salud para la gestión por excepción. Su valor radica en la capacidad de sintetizar el estado de múltiples verticales complejas, permitiendo a los niveles ejecutivos enfocar su atención y recursos donde el riesgo es crítico, garantizando la continuidad operativa y la transparencia en la entrega.",
+            "archivo": "ReportingRAG.md"
+        },
+        {
+            "id": "#RoadmapProducto",
+            "nombre": "Roadmap de Producto",
+            "verticales": [
+                "V3"
+            ],
+            "resumen": "Transformo la visión del producto en una hoja de ruta dinámica que alinea al equipo técnico con los objetivos de negocio. Mi enfoque sustituye el roadmap estático de funcionalidades por uno basado en **problemas a resolver**, permitiendo flexibilidad para pivotar según el aprendizaje del **#ProductDiscovery** sin perder de vista la entrega de valor real.",
+            "archivo": "RoadmapProducto.md"
+        },
+        {
+            "id": "#StakeholderManagement",
+            "nombre": "Stakeholder Management",
+            "verticales": [
+                "V1",
+                "V2",
+                "V3",
+                "V4",
+                "V5"
+            ],
+            "resumen": "Transformo la resistencia al cambio en adopción mediante una narrativa y gestión de expectativas basada en datos y empatía técnica. Mi valor radica en identificar los \"dolores\" específicos de cada actor (desde el usuario o cliente hasta el C-Suite) y traducir el avance tecnológico en beneficios tangibles para sus respectivos KPIs, asegurando la continuidad del financiamiento y la viabilidad operativa de los proyectos.",
+            "archivo": "StakeholderManagement.md"
+        },
+        {
+            "id": "#TechnicalTranslation",
+            "nombre": "Technical Translation",
+            "verticales": [
+                "V1",
+                "V2",
+                "V3",
+                "V4",
+                "V5"
+            ],
+            "resumen": "Actúo como el nodo de inteligencia que conecta la ciencia con la lógica digital y el impacto en el negocio. Mi enfoque no es el \"producto\" como un objeto, sino el aporte de valor que genera en la operación. Poseo la capacidad de sintetizar información compleja y explicarla en simple, asegurando que cada línea de código tenga un propósito económico y técnico claro.",
+            "archivo": "TechnicalTranslation.md"
+        },
+        {
+            "id": "#TPM",
+            "nombre": "Technical Project Management",
+            "verticales": [
+                "V3",
+                "V4"
+            ],
+            "resumen": "Garantía de la integridad técnica y la eficiencia en la entrega de productos complejos. Su valor radica en la capacidad de orquestar ciclos de desarrollo (SDLC) de alta velocidad sin comprometer la calidad arquitectónica, asegurando que el gemelo digital sea una herramienta confiable, escalable y mantenible a largo plazo.",
+            "archivo": "TPM.md"
+        },
+        {
+            "id": "#UserEnablement",
+            "nombre": "User Enablement",
+            "verticales": [
+                "V2",
+                "V3"
+            ],
+            "resumen": "Reduzco la brecha entre la capacidad tecnológica y la adopción operativa. Mi enfoque no es solo \"capacitar\", sino asegurar que el usuario final tenga el conocimiento, la confianza y la autonomía para extraer el máximo valor de la herramienta, transformando una solución técnica en una ventaja competitiva sostenible en el tiempo.",
+            "archivo": "UserEnablement.md"
+        },
+        {
+            "id": "#ValorizaciónTecnológica",
+            "nombre": "Valorización Tecnológica",
+            "verticales": [
+                "V2",
+                "V3"
+            ],
+            "resumen": "Análisis de los fundamentos financieros que determinan la rentabilidad y el valor económico de una solución tecnológica. Actúo como el arquitecto financiero de la innovación, traduciendo el potencial técnico en un valor monetario defendible para asegurar que la propiedad intelectual (PI) sea un activo transable que maximice el ROI, ya sea mediante venta, licencia o inversión.",
+            "archivo": "ValorizacionTecnologica.md"
+        },
+        {
+            "id": "#VentaConsultiva",
+            "nombre": "Venta Consultiva",
+            "verticales": [
+                "V1",
+                "V2"
+            ],
+            "resumen": "Transformo desafíos operativos e incertidumbres en proyectos de consultoría estructurados que generan valor medible. Mi enfoque no es transaccional, sino de socio estratégico: diagnostico brechas críticas en la cadena de valor y diseño propuestas técnico-económicas que mitigan riesgos financieros y optimizan la recuperación de activos, asegurando que el cliente vea el servicio no como un gasto, sino como una inversión en certidumbre.",
+            "archivo": "VentaConsultiva.md"
+        },
+        {
+            "id": "#VinculaciónEcosistémica",
+            "nombre": "Vinculación Ecosistémica",
+            "verticales": [
+                "V3",
+                "V4"
+            ],
+            "resumen": "Acelero los ciclos de innovación mediante la integración de capacidades externas y la articulación de alianzas estratégicas. Mi enfoque permite acceder a infraestructura crítica, conocimiento especializado y redes de colaboración que reducen los costos de I+D y posicionan a la organización como un actor clave en el ecosistema regional y global de tecnología.",
+            "archivo": "VinculacionEcosistemica.md"
+        }
+    ]
+}

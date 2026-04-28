@@ -1,7 +1,7 @@
 ---
 ID: "#AccountManagement"
 Nombre: "Account Management & Strategic Growth"
-Verticales: ["#V2", "#V3", "#V4"]
+Verticales: ["V2", "V3", "V4"]
 ---
 
 # #AccountManagement

@@ -1,7 +1,7 @@
 ---
 ID: "#RoadmapProducto"
 Nombre: "Roadmap de Producto"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #RoadmapProducto

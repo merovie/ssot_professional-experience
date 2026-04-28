@@ -1,7 +1,7 @@
 ---
 ID: "#MVP"
 Nombre: "Minimum Viable Product"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #MVP

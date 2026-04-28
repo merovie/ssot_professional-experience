@@ -1,7 +1,7 @@
 ---
 ID: "#MaduraciónTecnológica"
 Nombre: "Maduración Tecnológica"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #MaduraciónTecnológica

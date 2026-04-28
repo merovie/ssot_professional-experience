@@ -21,11 +21,5 @@ Ejecución de la **gobernanza y control de proyectos tecnológicos** de alta inc
 * [Gobernanza de Proyectos](../dominios/GobernanzaProyectos.md)
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 
-
-## 📈 Indicadores de Impacto (KPIs)
-* **Eficiencia de Flujo:** Optimización del Lead Time y Cycle Time en el despliegue de soluciones.
-* **Adopción Tecnológica:** Tasa de retención y uso de herramientas digitales por parte de los usuarios finales en operación.
-* **Gobernanza:** Cumplimiento de hitos críticos y gestión de riesgos sin desviaciones presupuestarias inyectadas por bloqueos operativos.
-
 ---
 [⬅️ Volver al Índice de Verticales](./README.md)

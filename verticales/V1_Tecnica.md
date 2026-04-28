@@ -21,13 +21,5 @@ Ejecución técnica de alto impacto en el ciclo de vida del dato minero para la 
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 * [Venta Consultiva](../dominios/VentaConsultivaTecnica.md)
 
-## 📈 Indicadores de Impacto (KPIs)
-* Precisión en la reconciliación Mina-Planta.
-* Reducción de incertidumbre en leyes de alta variabilidad.
-* Cumplimiento de estándares internacionales (NI 43-101 / JORC).
-
 ---
 [⬅️ Volver al Índice de Verticales](./README.md)
-
-
-`#EstimaciónRecursos`  `#OreControl` `#QAQC`  `#AuditoriaTécnica`  `#ExploraciónMinera` `#StakeholderManagement` `#TechnicalTranslation` `#InteroperabilidadTécnica` `#Lean` `#VentaConsultivaTécnica` `#ProductDiscovery` `#MinaToSoftware`

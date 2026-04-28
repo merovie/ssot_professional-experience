@@ -1,7 +1,7 @@
 ---
 ID: "#UserEnablement"
 Nombre: "User Enablement"
-Verticales: ["#V2", "#V3"]
+Verticales: ["V2", "V3"]
 ---
 
 # #UserEnablement

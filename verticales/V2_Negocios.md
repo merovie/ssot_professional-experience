@@ -25,10 +25,5 @@ Ejecución de la estrategia de crecimiento y captura de valor para tecnologías 
 * [Stakeholder Management](../dominios/StakeholderManagement.md)
 * [Interoperabilidad Técnica](../dominios/InteroperabilidadTecnica.md)
 
-## 📈 Indicadores de Impacto (KPIs)
-* **Capital levantado:** Gestión exitosa de fondos públicos/privados (Ej: USD $1M).
-* **Adopción Técnica:** Ratio de conversión de pilotos a contratos recurrentes.
-* **Profitability:** Incremento del margen mediante la optimización de procesos técnicos.
-
 ---
 [⬅️ Volver al Índice de Verticales](./README.md)

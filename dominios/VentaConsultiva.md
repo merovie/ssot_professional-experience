@@ -1,7 +1,7 @@
 ---
 ID: "#VentaConsultiva"
 Nombre: "Venta Consultiva"
-Verticales: ["#V1", "#V2"]
+Verticales: ["V1", "V2"]
 ---
 
 # #VentaConsultiva

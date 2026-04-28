@@ -1,7 +1,7 @@
 ---
 ID: "#CapitalAllocation"
 Nombre: "Capital Allocation"
-Verticales: ["#V3"]
+Verticales: ["V3"]
 ---
 
 # #CapitalAllocation
