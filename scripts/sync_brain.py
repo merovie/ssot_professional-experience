@@ -4,13 +4,12 @@ import os
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import frontmatter
-import re
 from pathlib import Path
 
 class BibliotecarioCompleto(FileSystemEventHandler):
     def __init__(self, ruta_dominios, ruta_verticales, archivo_salida):
         self.ruta_dominios = Path(ruta_dominios)
-        self.ruta_verticales = Path(ruta_verticales)s
+        self.ruta_verticales = Path(ruta_verticales)
         self.archivo_salida = archivo_salida
         self.actualizar_todo()
 
