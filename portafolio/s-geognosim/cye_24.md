@@ -1,5 +1,6 @@
 ---
 ID: "cye24"
+Macro_Asociado: "s-geognosim"
 Verticales: ["V1", "V2", "V3", "V4"]
 Dominios: ["ArquitecturaDeRequerimientos", "CapitalAllocation", "DesarrolloNegocios", "EstimacionRecursos", "FondosPublicos", "GoToMarket", "IDi", "MaduracionTecnologica", "MVP", "RemocionDeBloqueos", "RoadmapProducto", "StakeholderManagement", "TechnicalTranslation", "TPM", "UserEnablement", "ValorizacionTecnologica", "VentaConsultiva", "VinculacionEcosistemica"]
 
@@ -7,16 +8,16 @@ Dominios: ["ArquitecturaDeRequerimientos", "CapitalAllocation", "DesarrolloNegoc
 # # Consolida y Expande: Consolidación de Mercado e Internacionalización
 
 ## Situación y Tarea (S-T)
-**Contexto:** Tras validar la tecnología, el desafío era la penetración comercial en mercados mineros de alta competitividad (Australia, Perú y México). 
-**El Desafío:** La industria minera presenta una alta barrera de entrada para nuevas tecnologías. Mi objetivo fue liderar la postulación y ejecución del fondo **"Consolida y Expande" de CORFO** (adjudicando **220M CLP**) para preparar la infraestructura de soporte y ventas, con el KPI principal de reducir el ciclo de venta.
+Tras la validación técnica inicial, el desafío central fue la penetración comercial en los mercados mineros de Australia, Perú y México.
+**El Desafío:** La industria presentaba una inercia crítica frente a la adopción de nuevas tecnologías, lo que extendía los ciclos de venta más allá de lo sostenible. Mi responsabilidad fue liderar la adjudicación y ejecución de un fondo CORFO de **220 millones de CLP** para financiar la infraestructura de soporte y ventas necesaria para escalar el software internacionalmente.
 
 ## Acción (A)
-* **Gestión de Fondos (#CapitalAllocation):** Administré el subsidio que financió el 80% de las actividades de internacionalización, asegurando el cumplimiento de hitos críticos ante CORFO.
-* **Estrategia de Go-to-Market (#GTM):** Ante la dificultad de vender el software como producto "stand-alone" (debido a los largos tiempos de adopción), pivoté la estrategia hacia un modelo de **Servicios de Análisis de Riesgo**. 
-* **Pivotaje de Producto a Servicio (#MVP):** En lugar de esperar a que el cliente procesara la información, lideré la entrega de *insights* directos, actuando como consultora técnica para demostrar el valor inmediato de GeoGnoSim.
-* **Posicionamiento Digital:** Ejecuté mejoras en la visibilidad de la marca, logrando un impacto medible en el **SEO del sitio web** para atraer *leads* internacionales.
+* **Reingeniería del Modelo de Negocio:** Ante la resistencia a la compra de licencias "stand-alone", pivoté la oferta hacia un modelo de **consultoría técnica de alto nivel**. Esto permitió que la empresa generara ingresos inmediatos actuando como procesadora de datos en lugar de esperar a que el cliente aprendiera a usar la herramienta.
+* **Traducción de Impacto Financiero:** Rediseñé el discurso de venta para moverlo de la geociencia pura hacia métricas de rentabilidad. Traduje los resultados de simulación estocástica en indicadores de reducción de variabilidad de leyes, facilitando la toma de decisiones en niveles gerenciales de planificación y finanzas.
+* **Gestión de Recursos de Expansión:** Administré el presupuesto del subsidio (que cubría el 80% de la operación) para priorizar la visibilidad digital y el posicionamiento SEO en los mercados objetivo. Decidí concentrar fondos en la generación de confianza remota para acortar la brecha de entrada en países sin oficina física.
+* **Sincronización Institucional:** Coordiné las agendas técnicas y legales entre la Universidad de Chile, la Fundación COPEC-UC y los objetivos comerciales de GeoInnova. Aseguré que las actualizaciones del software cumplieran con los estándares de propiedad intelectual requeridos para contratos de exportación.
 
 ## Resultado (R)
-* **Financiamiento:** Captura de **220 millones de CLP** para la escalabilidad del negocio.
-* **Validación de Mercado:** Si bien el tiempo de venta de software se mantuvo alto por la inercia de la industria, logramos **monetizar la tecnología a través de servicios**, validando que el valor real para el cliente son los resultados del análisis de riesgo.
-* **Expansión:** Preparación efectiva del terreno para la operación en **Australia, Perú y México**, logrando visibilidad global de la marca GeoInnova.
+* **Validación de Monetización:** Se logró vender la tecnología bajo la modalidad de servicio de análisis de riesgo, demostrando que el mercado está dispuesto a pagar por el *insight* técnico antes que por el software propiamente tal.
+* **Presencia Internacional:** Se concretó el despliegue de marca en los tres países objetivo, respaldado por un flujo constante de *leads* capturados mediante la estrategia digital y de contenidos.
+* **Solvencia y Reputación:** Ejecución exitosa del proyecto ante CORFO, manteniendo el cumplimiento de todos los hitos y asegurando la viabilidad para futuras capturas de capital público.
