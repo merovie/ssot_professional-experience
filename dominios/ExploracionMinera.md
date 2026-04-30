@@ -14,7 +14,6 @@ Ejecución y supervisión de programas de exploración geológica orientados al 
 * **Logueo Geológico y Estructural:** Registro sistemático de litología, alteración y mineralización.
 * **Modelamiento Geológico:** Integración de mapeo y geofísica para proponer modelos de génesis de yacimientos (Pórfidos, IOCG, Epitermales).
 
-
 ## 🤝 Habilidades Core
 * **Liderazgo Operativo y Gestión de Contratistas:** Supervisión de empresas de perforación y servicios auxiliares, garantizando el cumplimiento de cronogramas y estándares de rendimiento.
 * **Liderazgo en Seguridad (HSE):** Promoción de una cultura de "Cero Daño" en entornos remotos y condiciones geográficas extremas, supervisando protocolos de seguridad en plataformas.

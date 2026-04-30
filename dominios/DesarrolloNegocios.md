@@ -22,7 +22,7 @@ Diseño y opero la arquitectura de crecimiento que transforma capacidades técni
 * **Gestión y Avance del Pipeline:** Opero el embudo de ventas analizando el movimiento de los leads a través de las etapas del ciclo (Prospecto > Calificado > Demo/Propuesta > Cierre). Identifico cuellos de botella en el pipeline para ajustar la táctica de contacto.
 * **Desarrollo de Relaciones Comerciales de Alto Nivel:** Cultivo una red de contactos (Networking) basada en la credibilidad técnica, gestionando la relación directa con leads clave para transformar contactos en "Champions" dentro de las empresas clientes.
 
-🤝 Habilidades Core
+## 🤝 Habilidades Core
 * **Dominio del Funnel B2B:** Capacidad para segmentar y calificar leads de forma técnica, asegurando que el esfuerzo comercial se centre en cuentas con alto potencial de cierre.
 * **Interpretación de Datos Comerciales:** Habilidad para leer métricas de marketing y ventas, transformándolas en decisiones de pivote o aceleración del modelo de negocio.
 * **Pensamiento de Ecosistema:** Integración de marketing, ventas y producto como un solo flujo continuo, evitando silos de información.

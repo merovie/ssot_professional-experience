@@ -25,7 +25,7 @@ Diseño la hoja de ruta estratégica para introducir soluciones tecnológicas co
 * **Nurturing:** Secuencia de correos automáticos que educan al prospecto sobre el problema antes de ofrecer la herramienta.
 * **Arquitectura del Feedback Loop:** Implemento un sistema (ej. un canal de Slack o un tablero de Notion) donde cada error reportado o función solicitada por un cliente potencial en fase GTM se categoriza por "Impacto en Venta". Esto dicta qué desarrolla el equipo técnico a continuación.
 
-🤝 Habilidades Core (Ejecución)
+🤝 Habilidades Core
 * **Gestión de la Incertidumbre:** Capacidad para lanzar con un producto "imperfecto" pero funcional, priorizando el aprendizaje sobre la estética.
 * **Comunicación Bidireccional:** Traducir los "no" del cliente en requerimientos técnicos claros para los desarrolladores, y los "bugs" del equipo técnico en expectativas manejables para el cliente.
 * **Análisis de Fricción:** Identificar exactamente qué botón, qué paso del registro o qué cláusula del contrato está deteniendo el crecimiento.
