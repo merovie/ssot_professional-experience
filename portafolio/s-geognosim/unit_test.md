@@ -2,7 +2,7 @@
 ID: "ut_suc23"
 Macro_Asociado: "MACRO-GEOGNOSIM"
 Verticales: ["V3", "V4"]
-Dominios: ["MaduracionTecnologica", "EstimacionRecursos", "TechnicalTranslation", "MVP", "StakeholderManagement", TPM", "RemocionDeBloqueos", "ProductOwnership", "TechnicalTranslation", "QA/QC"]
+Dominios: ["MaduracionTecnologica", "EstimacionRecursos", "TechnicalTranslation", "MVP", "StakeholderManagement", TPM", "RemocionDeBloqueos", "TechnicalTranslation", "QA/QC", "IDi"]
 ---
 
 ## Situación y Tarea (S-T)

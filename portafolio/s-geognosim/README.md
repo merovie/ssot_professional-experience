@@ -1,7 +1,7 @@
 ---
-ID: "SW_MOD_SIM_CATE"
+ID: "s-geognosim"
 Nombre: "GeoGnoSim: Ecosistema Maduración Tecnológica"
-Verticales: ["V1", "V3"]
+Verticales: ["V1", "v2", "V3", "V4"]
 ---
 
 # 🛰️ Macro-Proyecto: GeoGnoSim
@@ -14,31 +14,24 @@ Este proyecto nació de la necesidad de acelerar el condicionamiento de datos en
 ## Proyectos
 
 ### 1. [Start Up Ciencia](./suc_23.md)
-* **Foco:** Captura de subsidios y relación con stakeholders (U. de Chile / COPEC-UC / ).
 
 ### 2. [Consolida y Expande](./cye_24.md)
-* **Foco:** Reingeniería del algoritmo, pruebas unitarias y "perilleo" de parámetros.
 
 ### 3. [Análisis de riesgo para yacimiento de hierro](./piloto_au.md)
-* **Foco:** Implementación en Gold Fields y Minería Activa para validación de hipótesis.
 
 ### 4. [Análisis de riesgo para mina de oro](./piloto_fe.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
 
 ### 5. [Estrategia Go-to-Market](./gtm.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
 
 ### 6. [Negociación de contrato de licenciamiento](./legal.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
 
 ### 7. [Control y validación de resultados](./unit_test.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
 
 ### 8. [Desarrollo de negocios](./biz_dev.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
 
 ### 9. [Gestión de proveedores](./proveedores.md)
-* **Foco:** Rediseño de marca, ferias mineras y primera venta en Perú (MARSA).
+
+### 10. [SEO](./prov_seo.md)
 ---
 
 ## 💎 Impacto Estratégico
