@@ -1,8 +1,8 @@
 ---
 ID: "legal"
 Macro_Asociado: "s-geognosim"
-Verticales: ["V1", "V3", "V4"]
-Dominios: ["StakeholderManagement", "FondosPublicos", "MaduracionTecnologica", "TechnicalTranslation", "RemocionDeBloqueos", "LegalCompliance"]
+Verticales: ["V2", "V3", "V4"]
+Dominios: ["StakeholderManagement", "FondosPublicos", "MaduracionTecnologica", "TechnicalTranslation", "RemocionDeBloqueos"]
 ---
 
 ## Situación y Tarea (S-T)
