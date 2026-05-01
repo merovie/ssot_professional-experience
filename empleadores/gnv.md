@@ -34,7 +34,5 @@
 
 ### 14. [Clasificación de Recursos estáticos Litio](../portafolio/consultoria/litio.md)
 
-### 15. [Capacitaciones de rutinas avanzadas en software comercial](../portafolio/consultoria/training.md)
-
-### 10. [Arquitectura de proyectos para beneficios tributarios](../portafolio/leyid/proy_varios.md)
+### 15. [Arquitectura de proyectos para beneficios tributarios](../portafolio/leyid/proy_varios.md)
 
