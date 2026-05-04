@@ -2,7 +2,7 @@
 ID: "control_leyes"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1"]
-Dominios: ["QAQC", "OreControl", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation"]
+Dominios: ["QAQC", "OreControl", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
 ---
 
 # Gestión Operacional y Ore Control (Hierro)
@@ -25,7 +25,6 @@ Para asegurar la selectividad y el cumplimiento del plan, lideré las siguientes
 * **Articulación con Planificación:** Mantuve comunicación constante con el profesional a cargo de la **planificación de la extracción de corto plazo** para alinear la secuencia de minado con la realidad geológica del frente.
 * **Gestión de Muestreo (Blast Holes):** Supervisé directamente las campañas de muestreo en pozos de tronadura para integrar datos frescos en el ajuste de los límites de minado diarios.
 * **Soporte a Perforación y Tronadura (PyT):** Proporcioné análisis de calidad de roca y zonificación litológica para optimizar el diseño de mallas de perforación según las características del macizo rocoso.
-* **Monitoreo de Restricciones:** Validé parámetros operativos y metalúrgicos en terreno para asegurar que la alimentación se ajustara a las restricciones técnicas de la planta.
 * **Gestión de Prioridades de Muestreo:** Diseñé y lideré la estrategia de priorización de muestras químicas enviadas al laboratorio, asegurando que las zonas críticas para el cumplimiento del plan inmediato tuvieran precedencia en el análisis.
 * **Coordinación directa con Jefatura de Turno Mina**. Comunicación diaria con operación mina para estar en completa sincronía sobre que frentes de extracción atacar y que complejidades tiene el terreno. 
 * **Visitas a terreno**: Estas para verificar que la pala y camiones siguieran los presupuesteado.

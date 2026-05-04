@@ -4,7 +4,7 @@ Macro_Asociado: "consultoría"
 Verticales: ["V1"]
 Dominios: ["EstimacionRecursos", "Auditoría Técnica", "VentaConsultiva"]
 Software: Isatis.neo, Leapfrog Edge
-Commodity: Litio (Estático) 
+Commodity: Litio (Estático)
 ---
 
 # Consultoría Geoestadística y Validación de Activos (Litio)

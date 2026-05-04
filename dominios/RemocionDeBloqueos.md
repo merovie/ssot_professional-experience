@@ -7,7 +7,7 @@ Verticales: ["V3", "V4"]
 # #RemocionBloqueos
 
 ## 💎 Valor Estratégico
-Maximización de la fluidez operacional y técnica mediante la identificación y eliminación proactiva de obstáculos que detienen el progreso. Su valor reside en reducir la fricción sistémica, optimizar el *time-to-value* y garantizar que el ecosistema del gemelo digital opere de forma continua, evitando el estancamiento por deudas técnicas, burocráticas o relacionales.
+Maximización de la fluidez operacional y técnica mediante la identificación y eliminación proactiva de obstáculos que detienen el progreso. Su valor reside en reducir la fricción sistémica, optimizar el *time-to-value* y garantizar que el ecosistema opere de forma continua, evitando el estancamiento por deudas técnicas, burocráticas o relacionales.
 
 ## 🛠️ Ejes de Acción
 * **Identificación de Cuellos de Botella (Bottleneck Analysis):** Localización precisa de puntos de congestión en flujos de datos, procesos de decisión o dependencias técnicas que ralentizan el ciclo de vida del proyecto.

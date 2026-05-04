@@ -134,6 +134,13 @@
             "archivo": "GoToMarket.md"
         },
         {
+            "id": "hse",
+            "nombre": "hse",
+            "verticales": [],
+            "resumen": "Sin descripción",
+            "archivo": "hse.md"
+        },
+        {
             "id": "#IDi",
             "nombre": "Gestión de I+D+i",
             "verticales": [
@@ -216,7 +223,7 @@
                 "V3",
                 "V4"
             ],
-            "resumen": "Maximización de la fluidez operacional y técnica mediante la identificación y eliminación proactiva de obstáculos que detienen el progreso. Su valor reside en reducir la fricción sistémica, optimizar el *time-to-value* y garantizar que el ecosistema del gemelo digital opere de forma continua, evitando el estancamiento por deudas técnicas, burocráticas o relacionales.",
+            "resumen": "Maximización de la fluidez operacional y técnica mediante la identificación y eliminación proactiva de obstáculos que detienen el progreso. Su valor reside en reducir la fricción sistémica, optimizar el *time-to-value* y garantizar que el ecosistema opere de forma continua, evitando el estancamiento por deudas técnicas, burocráticas o relacionales.",
             "archivo": "RemocionDeBloqueos.md"
         },
         {

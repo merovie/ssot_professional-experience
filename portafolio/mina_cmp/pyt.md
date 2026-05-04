@@ -2,20 +2,30 @@
 ID: "pyt"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V4"]
-Dominios: ["GobernanzaProyectos", "InteroperabilidadTecnica", "RemocionDeBloqueos"]
+Dominios: ["OreControl", "StakeholderManagement", "TechnicalTranslation", "GobernanzaProyectos", "hse", "InteroperabilidadTecnica", "RemocionDeBloqueos", "EstimacionRecursos"]
 ---
 
-# Planes y Tareas (PyT) - Coordinación Técnica
+#  Geología Aplicada a Perforación y Tronadura (PyT)
 
-## 🚩 Situación y Tarea (S-T)
-**Contexto:** La desconexión entre los objetivos de geología y las metas de producción de la mina generaba cuellos de botella en la entrega de frentes de minado validados.
-**El Desafío:** Orquestar la programación semanal de tareas técnicas para asegurar que todas las actividades de geociencias (mapeo, muestreo, modelamiento) se ejecutaran antes del ingreso de los equipos de extracción.
+## Situación y Tarea (S-T)
+El objetivo de este proyecto era suministrar inteligencia geológica crítica al equipo de Perforación y Tronadura (P&T) para la definición de parámetros de voladura. 
 
-## 🛠️ Acción (A)
+**El Desafío:** El desafío radicaba en sintetizar la complejidad del modelo geológico en datos operativos que permitieran optimizar el factor de carga y la fragmentación de la roca, asegurando una tronadura eficiente y segura según las características específicas de cada polígono.
+
+## Acción (A)
+Actué como el nexo técnico para transferir el conocimiento del subsuelo al diseño de ingeniería de voladura:
+
 * **Sincronización de Backlog:** Integré las necesidades de geología en la carta Gantt operativa de la mina mediante reuniones de planificación cruzada (PyT).
-* **Gestión de Prioridades:** Identifiqué y removí bloqueos operativos que impedían el acceso de los geólogos a las zonas críticas de muestreo.
-* **Reporting de Avance:** Implementé un tablero de control RAG para visualizar el estado de preparación de los bloques de minado.
+* **Entrega de Parámetros de Roca:** Proporcioné datos precisos de densidad de roca estimada y dominios litológicos provenientes del modelo geológico para el cálculo del factor de potencia.
+* **Levantamiento Estructural de Polígonos:** Realicé el mapeo y levantamiento estructural de los polígonos previos a la perforación, identificando familias de discontinuidades, fallas o cambios de dureza que pudieran afectar la salida de la tronadura o generar sobre-quiebre.
+* **Elaboración de "Croquis" Geológicos:** Diseñé y abastecí cartografía geológica simplificada ("croquis") de los polígonos, permitiendo que el equipo de P&T visualizara rápidamente las variaciones del terreno dentro de la malla de perforación.
+* **Reuniones de Coordinación Pre-Tronadura:** Lideré la comunicación técnica en reuniones de coordinación antes de las fechas de voladura, alertando sobre zonas críticas de contacto mineral/estéril o estructuras que requirieran un ajuste en el diseño de carga.
+* **Optimización de Parámetros de Voladura:** Colaboré en la definición de esquemas de disparo basados en la dureza estimada, buscando un equilibrio entre el costo de explosivos y la granulometría requerida por la planta.
 
-## 📈 Resultado (R)
-* **Cumplimiento del Plan:** Se alcanzó un 98% de cumplimiento en la entrega oportuna de polígonos de mineral a operaciones.
-* **Eficiencia Operativa:** Eliminación de los tiempos de espera de las palas por validación geológica, optimizando el uso de la flota.
+## Resultado (R)
+* **Mejora en la Fragmentación:** La integración de la densidad y estructura geológica permitió diseños de tronadura más precisos, optimizando el rendimiento de las palas y el proceso de chancado posterior.
+* **Reducción de la Dilución:** Los croquis geológicos ayudaron a identificar contactos críticos, permitiendo un mejor control de la energía de la voladura en zonas de borde para minimizar el desplazamiento de material.
+* **Seguridad y Predictibilidad:** La identificación temprana de estructuras geológicas redujo los riesgos de proyecciones imprevistas o inestabilidad en las paredes del rajo.
+* **Eficiencia en el Diseño:** Se estandarizó el flujo de información entre Geología y P&T, eliminando la incertidumbre sobre las características de la roca antes de cada evento de tronadura.
+
+---

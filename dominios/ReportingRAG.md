@@ -15,7 +15,7 @@ Transformación de datos operativos y técnicos en indicadores visuales de salud
 * **Diseño de Dashboards Ejecutivos:** Creación de interfaces de visualización de alto impacto que permitan una lectura rápida del ecosistema y faciliten el "drill-down" hacia la causa raíz.
 * **Protocolos de Escalación por Color:** Definición de acciones obligatorias y tiempos de respuesta específicos asociados a cada estado (ej: quién interviene cuando un indicador pasa a Rojo).
 * **Análisis de Tendencias y Deriva:** Monitoreo de la velocidad de cambio entre estados para predecir cuándo un indicador Verde entrará en zona Ámbar, permitiendo intervenciones preventivas.
-* **Normalización de Reportabilidad:** Aseguramiento de que el concepto de "Rojo" o "Ámbar" sea interpretado de la misma manera en todas las verticales del gemelo digital.
+* **Normalización de Reportabilidad:** Aseguramiento de que el concepto de "Rojo" o "Ámbar" sea interpretado de la misma manera en todas las verticales del sistema.
 * **Auditoría de Veracidad (Anti-Watermelon Reporting):** Implementación de controles para evitar el reporte de estados "Verdes por fuera, Rojos por dentro", garantizando la integridad de la información.
 
 ## 🤝 Habilidades Core
