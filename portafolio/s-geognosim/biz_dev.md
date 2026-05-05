@@ -1,5 +1,6 @@
 ---
 ID: "biz_dev"
+Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V1", "V2", "V3", "V4"]
 Dominios: ["AccountManagement", "DesarrolloNegocios", "EstimacionRecursos", "GoToMarket", "IDi", "MaduracionTecnologica", "ProductDiscovery", "ReportingRAG", "StakeholderManagement", "UserEnablement", "ValorizacionTecnologica","TechnicalTranslation", "VentaConsultiva"]

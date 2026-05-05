@@ -1,5 +1,6 @@
 ---
 ID: "proy_varios"
+Empresa: "gnv"
 Macro_Asociado: "leyid"
 Verticales: ["V1", "V3", "V4"]
 Dominios: ["CapitalAllocation", "FondosPublicos", "MaduracionTecnologica", "StakeholderManagement", "TPM", "RemocionDeBloqueos", "GobernanzaDeProyectos", "IDi", "MVP", "ReportingRAG", "RoadmapProduct", "TechnicalTransalation", "VinculacionEcosistemica", "ValorizacionTecnologica"]

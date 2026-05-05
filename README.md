@@ -13,8 +13,8 @@ Este repositorio es la fuente única de verdad de mi perfil profesional, capacid
 | :--- | :--- | :--- |
 | **01. Verticales** | Mis ejes estratégicos de acción. | [`/verticales/`](./verticales/) |
 | **02. Dominios** | Diccionario de competencias técnicas. | [`/dominios/`](./dominios/) |
-| **03. Portafolio** | Portafolio de poryectos. | [`/proyectos/`](./proyectos/) |
-| **04. Trayectoria laboral** | Empleadores. | [`/empleadores/`](./empleadores/) |
+| **03. Portafolio** | Portafolio de poryectos. | [`/portafolio/`](./portafolio/) |
+| **04. Trayectoria laboral** | Organización. | [`/empresa/`](./empresa/) |
 | **05. Estudios** | Dónde y qué aprendí. | [`/aprendizaje/`](./aprendizaje/) |
 
 ---

@@ -1,5 +1,6 @@
 ---
 ID: "chpi"
+Empresa: "gnv"
 Macro_Asociado: "nm-spde4d"
 Verticales: ["V3", "V4"]
 Dominios: ["CapitalAllocation", "FondosPublicos", "MaduracionTecnologica", "StakeholderManagement", "TPM", "RemocionDeBloqueos", "IDi", "MVP", "ReportingRAG", "RoadmapProduct", "TechnicalTransalation", "VinculacionEcosistemica", "ValorizacionTecnologica"]

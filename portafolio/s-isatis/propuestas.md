@@ -1,5 +1,6 @@
 ---
 ID: "propuestas"
+Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
 Dominios: ["EstimacionRecursos", "VentaConsultiva", "AccountManagement", "DesarrolloNegocios", "StakeholderManagement", "ValorizacionTecnologica", "ReportingRAG", "TechnicalTransalation"]

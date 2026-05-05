@@ -14,7 +14,7 @@ ID: "carrera_profesional"
 
 ## Ingeniería Geológica
 **Institución:** Universidad Autónoma de Nuevo León
-**Periodo:** 2066-2011
+**Periodo:** 2006-2011
 **Egreso:** 2011
 **Especialización:** Ingeniería Ambiental
 ---

@@ -4,7 +4,7 @@ Nombre: "Arquitectura de Requerimientos"
 Verticales: ["V3"]
 ---
 
-# #ArquitecturaDeRequerimientos
+# ArquitecturaDeRequerimientos
 
 ## 💎 Valor Estratégico
 Orquestación y diseño del ecosistema de necesidades que asegura la alineación entre la visión de negocio y la ejecución técnica. Su valor reside en transformar la ambigüedad en especificaciones accionables y agnósticas, garantizando que el sistema sea escalable, sostenible y que cada componente desarrollado responda a un propósito de negocio validado.

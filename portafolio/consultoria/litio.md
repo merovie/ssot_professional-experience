@@ -1,5 +1,6 @@
 ---
 ID: "litio"
+Empresa: "gnv"
 Macro_Asociado: "consultoría"
 Verticales: ["V1"]
 Dominios: ["EstimacionRecursos", "Auditoría Técnica", "VentaConsultiva"]

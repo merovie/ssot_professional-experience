@@ -4,7 +4,7 @@ Nombre: "Account Management & Strategic Growth"
 Verticales: ["V2", "V3", "V4"]
 ---
 
-# #AccountManagement
+# AccountManagement
 
 ## 💎 Valor Estratégico
 Fomento la **predictibilidad de los ingresos** y la **protección del Customer Lifetime Value (LTV)** mediante un seguimiento técnico riguroso. Mi función es mitigar el riesgo de fuga de clientes (*churn*) a través de la validación constante de los entregables y la identificación temprana de nuevas necesidades operativas. Actúo como el nexo que viabiliza la transición de una consultoría puntual hacia una relación de servicio recurrente y escalable.

@@ -1,5 +1,6 @@
 ---
 ID: "pyt"
+Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V4"]
 Dominios: ["OreControl", "StakeholderManagement", "TechnicalTranslation", "GobernanzaProyectos", "hse", "InteroperabilidadTecnica", "RemocionDeBloqueos", "EstimacionRecursos"]

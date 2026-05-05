@@ -1,5 +1,6 @@
 ---
 ID: "proveedores"
+Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V2", "V3", "V4"]
 Dominios: ["StakeholderManagement", "RemocionDeBloqueos", "GTM", "TPM", "CapitalAllocation", "IDi", "MVP", "ReportingRAG", "RoadmapProduct", "TechnicalTransalation", "VinculacionEcosistemica", "ValorizacionTecnologica"]

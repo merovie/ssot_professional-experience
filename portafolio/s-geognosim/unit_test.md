@@ -1,6 +1,7 @@
 ---
 ID: "ut_suc23"
-Macro_Asociado: "MACRO-GEOGNOSIM"
+Empresa: "gnv"
+Macro_Asociado: "s-geognosim"
 Verticales: ["V3", "V4"]
 Dominios: ["MaduracionTecnologica", "EstimacionRecursos", "TechnicalTranslation", "MVP", "StakeholderManagement", TPM", "RemocionDeBloqueos", "TechnicalTranslation", "QA/QC", "IDi"]
 ---

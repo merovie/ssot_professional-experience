@@ -1,10 +1,10 @@
 ---
-ID: "#AuditoríaTécnica"
+ID: "AuditoríaTécnica"
 Nombre: "Auditoría Técnica"
 Verticales: ["V1"]
 ---
 
-# #AuditoríaTécnica
+# AuditoríaTécnica
 
 ## 💎 Valor Estratégico
 Evaluación sistemática e independiente de procesos, datos y modelos para garantizar la integridad técnica y mitigación de riesgos operativos/financieros.

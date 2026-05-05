@@ -1,5 +1,6 @@
 ---
 ID: "pozos_hidricos"
+Empresa: "arava"
 Macro_Asociado: "mina_arava"
 Verticales: ["V1"]
 Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]

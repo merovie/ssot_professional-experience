@@ -1,5 +1,6 @@
 ---
 ID: "protocolo_cp"
+Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1"]
 Dominios: ["QAQC", "OreControl", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse", "GobernanzaProyectos"]

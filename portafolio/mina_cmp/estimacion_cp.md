@@ -1,5 +1,6 @@
 ---
 ID: "estimacion_cp"
+Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1", "V3"]
 Dominios: ["EstimacionRecursos", "TechnicalTranslation", "MVP", "OreControl", "QAQC", "InteroperabilidadTecnica", "hse"]

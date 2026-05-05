@@ -1,5 +1,6 @@
 ---
 ID: "cye24"
+Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V1", "V2", "V3", "V4"]
 Dominios: ["ArquitecturaDeRequerimientos", "CapitalAllocation", "DesarrolloNegocios", "EstimacionRecursos", "FondosPublicos", "GoToMarket", "IDi", "MaduracionTecnologica", "MVP", "RemocionDeBloqueos", "RoadmapProducto", "StakeholderManagement", "TechnicalTranslation", "TPM", "UserEnablement", "ValorizacionTecnologica", "VentaConsultiva", "VinculacionEcosistemica"]

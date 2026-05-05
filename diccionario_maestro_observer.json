@@ -51,7 +51,7 @@
             "archivo": "ArquitecturaDeRequerimientos.md"
         },
         {
-            "id": "#AuditoríaTécnica",
+            "id": "AuditoríaTécnica",
             "nombre": "Auditoría Técnica",
             "verticales": [
                 "V1"

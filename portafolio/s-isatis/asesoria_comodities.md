@@ -1,5 +1,6 @@
 ---
 ID: "asesoria_comodities"
+Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
 Dominios: ["EstimacionRecursos", "GobernanzaProyectos", "VentaConsultiva", "ArquitecturaDeRequerimientos", "StakeholderManagement", "TechnicalTranslation", "TPM", "ReportingRAG"]

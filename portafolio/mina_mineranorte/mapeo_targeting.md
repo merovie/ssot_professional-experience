@@ -1,5 +1,6 @@
 ---
 ID: "mapeo_targeting"
+Empresa: "mineradelnorte"
 Macro_Asociado: "mina_mineranorte"
 Verticales: ["V1"]
 Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
