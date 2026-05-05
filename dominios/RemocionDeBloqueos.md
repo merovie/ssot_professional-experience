@@ -1,5 +1,5 @@
 ---
-ID: "#RemociónDeBloqueos"
+ID: "#RemocionDeBloqueos"
 Nombre: "Remoción de Bloqueos"
 Verticales: ["V3", "V4"]
 ---

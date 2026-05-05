@@ -1,5 +1,5 @@
 ---
-ID: "#ValorizaciónTecnológica"
+ID: "#ValorizacionTecnológica"
 Nombre: "Valorización Tecnológica"
 Verticales: ["V2", "V3"]
 ---

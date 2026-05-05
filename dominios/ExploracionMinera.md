@@ -1,5 +1,5 @@
 ---
-ID: "#ExploraciónMinera"
+ID: "#ExploracionMinera"
 Nombre: "Exploración Minera"
 Verticales: ["V1"]
 ---

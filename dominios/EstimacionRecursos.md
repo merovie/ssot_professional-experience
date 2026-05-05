@@ -1,5 +1,5 @@
 ---
-ID: "#EstimaciónRecursos"
+ID: "#EstimacionRecursos"
 Nombre: "Estimación de Recursos"
 Verticales: ["V1"]
 ---

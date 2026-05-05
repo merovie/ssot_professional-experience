@@ -1,5 +1,5 @@
 ---
-ID: "AuditoríaTécnica"
+ID: "#AuditoriaTecnica"
 Nombre: "Auditoría Técnica"
 Verticales: ["V1"]
 ---
