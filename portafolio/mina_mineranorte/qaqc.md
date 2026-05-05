@@ -1,5 +1,5 @@
 ---
-ID: "qaqc_validación_mn"
+ID: "qaqc"
 Empresa: "mineradelnorte"
 Macro_Asociado: "mina_mineranorte"
 Verticales: ["V1"]

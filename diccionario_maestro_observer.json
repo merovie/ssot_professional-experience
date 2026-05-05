@@ -134,10 +134,12 @@
             "archivo": "GoToMarket.md"
         },
         {
-            "id": "hse",
-            "nombre": "hse",
-            "verticales": [],
-            "resumen": "Sin descripción",
+            "id": "#hse",
+            "nombre": "HSE",
+            "verticales": [
+                "V1"
+            ],
+            "resumen": "Transformo la gestión de HSE de un marco de cumplimiento normativo en un pilar de continuidad operacional y protección de capital. Mi valor reside en salvaguardar el talento humano —el activo más crítico— mediante una articulación técnica que integra protocolos de seguridad minera y reportabilidad analítica en el ciclo de vida del proyecto. Al alinear a los stakeholders bajo una cultura de autocuidado y eficiencia de recursos.",
             "archivo": "hse.md"
         },
         {
