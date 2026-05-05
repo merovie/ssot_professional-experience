@@ -1,8 +1,13 @@
 # Geovariances
 
 **Periodo:** Julio 2021 - Enero 2023
-**Rol:** Business Development Manager, LatAm
-**Sector:** Tecnología para Minería (EBCT)
+**Rol:** Senior Consultant and Business Development, LATAM
+**Sectorización:** Software y soluciones geoestadísticas especializadas para minería
+**Ubicación:** Francia / LATAM
+**Metodología:** Híbrido
+**Commodity:** NA
+**Método de extracción:** NA
+**Herramientas:** Trello, Notion, Python, Microsfot Suite, Isatis.neo, Sugar (CRM).
 
 ## Proyectos Realizados
 

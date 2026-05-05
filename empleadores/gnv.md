@@ -2,7 +2,12 @@
 
 **Periodo:** Marzo 2023 - Enero 2026
 **Rol:** Head of Product I+D+i
-**Sector:** Tecnología para Minería (EBCT)
+**Sectorización:** Empresa consultora enfocada en servicios de evaluación de yacimientos y desarrollo de productos tecnológicos deep tech para la industria Minera.
+**Ubicación:** Chile
+**Metodología:** Remoto
+**Commodity:** NA
+**Método de extracción:** NA
+**Herramientas:** Trello, Notion, Python, Gemini AI, Microsfot Suite, Teams, Miro, BusinessMap (Kanbanize), Isatis.neo, Vulcan.
 
 ## Proyectos Realizados
 
