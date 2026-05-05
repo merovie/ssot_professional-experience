@@ -3,7 +3,7 @@ ID: "proveedores"
 Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V2", "V3", "V4"]
-Dominios: ["#StakeholderManagement", "#RemocionDeBloqueos", "#GTM", "#TPM", "#CapitalAllocation", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProduct", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
+Dominios: ["#StakeholderManagement", "#RemocionDeBloqueos", "#GoToMarket", "#TPM", "#CapitalAllocation", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
 ---
 
 ## Situación y Tarea (S-T)
