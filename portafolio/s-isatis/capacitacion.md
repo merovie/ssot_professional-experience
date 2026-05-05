@@ -3,7 +3,7 @@ ID: "capacitacion"
 Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
-Dominios: ["#UserEnablement", "#TechnicalTranslation", "#AccountManagement", "#Fidelización", "#EstimacionRecursos", "#QAQC"
+Dominios: ["#UserEnablement", "#TechnicalTranslation", "#AccountManagement", "#Fidelizacion", "#EstimacionRecursos", "#QAQC"
 ]
 ---
 

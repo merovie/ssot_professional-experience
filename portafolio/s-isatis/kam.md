@@ -3,7 +3,7 @@ ID: "kam"
 Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
-Dominios: ["#AccountManagement", "#Fidelización", "#StakeholderManagement", "#VentaConsultiva", "#TechnicalTranslation", "#UserEnablement", "#VinculacionEcosistemica", "#GobernanzaProyectos"]
+Dominios: ["#AccountManagement", "#Fidelizacion", "#StakeholderManagement", "#VentaConsultiva", "#TechnicalTranslation", "#UserEnablement", "#VinculacionEcosistemica", "#GobernanzaProyectos"]
 ---
 
 # Gestión de Cuentas Estratégicas (Key Account Management)

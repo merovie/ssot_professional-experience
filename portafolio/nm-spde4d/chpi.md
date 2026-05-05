@@ -3,7 +3,7 @@ ID: "chpi"
 Empresa: "gnv"
 Macro_Asociado: "nm-spde4d"
 Verticales: ["V3", "V4"]
-Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProduct", "#TechnicalTransalation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
+Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
 ---
 
 # Proyecto: Capital Humano Avanzado 

@@ -3,7 +3,7 @@ ID: "piloto_ma"
 Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V1", "V2"]
-Dominios: ["#MaduracionTecnologica", "#EstimacionRecursos", "#TechnicalTranslation", "#MVP", "#StakeholderManagement", "#ExploracionMinera", "#VentaConsultiva", "#VinculacionEcosistemica", "#ProductDiscovery", "#IDi", "#UserEnablemenet", "#DesarrolloNegocios", "#GoToMarket", "#DesarrolloNeogocios"]
+Dominios: ["#MaduracionTecnologica", "#EstimacionRecursos", "#TechnicalTranslation", "#MVP", "#StakeholderManagement", "#ExploracionMinera", "#VentaConsultiva", "#VinculacionEcosistemica", "#ProductDiscovery", "#IDi", "#UserEnablement", "#DesarrolloNegocios", "#GoToMarket", "#DesarrolloNegocios"]
 ---
 
 ## Situación y Tarea (S-T)
