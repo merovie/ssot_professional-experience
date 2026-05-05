@@ -26,8 +26,5 @@ Transformación de datos operativos y técnicos en indicadores visuales de salud
 * **Pensamiento Predictivo:** Capacidad para identificar señales débiles que anticipan un cambio de estado en el corto o mediano plazo.
 * **Comunicación Estratégica:** Habilidad para explicar la "historia detrás del color", traduciendo un estado RAG en un plan de acción concreto para el C-Level.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

@@ -27,8 +27,5 @@ Ejecución de la geociencia operacional para la optimización de la selectividad
 * **Resiliencia y Adaptabilidad en Sistemas de Turnos:** Amplia experiencia en regímenes de trabajo exigentes (rosters de faena), demostrando estabilidad emocional y física para mantener un alto estándar técnico durante ciclos prolongados. Capacidad de autogestión y toma de decisiones críticas con total autonomía, especialmente durante el turno noche o en periodos de baja supervisión directa.
 * **Gestión de Continuidad Operacional (Handover):** Rigurosidad en el traspaso de información técnica y de seguridad entre turnos salientes y entrantes. Uso de **bitácoras de relevo** detalladas para asegurar que no existan brechas de información en la clasificación de mineral, la gestión de stocks o los riesgos detectados en el banco.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

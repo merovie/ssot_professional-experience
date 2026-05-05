@@ -32,8 +32,6 @@ Transformo la resistencia al cambio en adopción mediante una narrativa y gesti�
 * **Integridad y Ética del Dato:** Compromiso innegociable con la veracidad de la información, entendiendo que la reputación profesional y la viabilidad del proyecto dependen de la precisión de lo reportado.
 * **Escucha Activa y Arbitraje:** Detección de las dudas del stakeholder para responderlas con evidencia técnica antes de que se conviertan en bloqueos al proyecto.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
 
 ---
 [⬅️ Volver al Diccionario](./README.md)

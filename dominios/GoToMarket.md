@@ -30,8 +30,5 @@ Diseño la hoja de ruta estratégica para introducir soluciones tecnológicas co
 * **Comunicación Bidireccional:** Traducir los "no" del cliente en requerimientos técnicos claros para los desarrolladores, y los "bugs" del equipo técnico en expectativas manejables para el cliente.
 * **Análisis de Fricción:** Identificar exactamente qué botón, qué paso del registro o qué cláusula del contrato está deteniendo el crecimiento.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

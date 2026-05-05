@@ -22,8 +22,5 @@ Gestión del ciclo de vida del desarrollo tecnológico para reducir la incertidu
 * **Visión Crítica de Ingeniería:** Habilidad para detectar debilidades en el diseño técnico que podrían comprometer la escalabilidad futura.
 * **Interlocución Técnica:** Capacidad de guiar a los desarrolladores o ingenieros de campo hacia los objetivos de madurez comercial sin perder la profundidad técnica.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

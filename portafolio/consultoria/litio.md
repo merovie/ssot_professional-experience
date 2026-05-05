@@ -3,14 +3,13 @@ ID: "litio"
 Empresa: "gnv"
 Macro_Asociado: "consultoria"
 Verticales: ["V1"]
-Dominios: ["#EstimacionRecursos", "#AuditoriaTecnica", "#VentaConsultiva"]
-Commodity: Litio (Estatico)
+Dominios: ["#EstimacionRecursos", "#AuditoriaTecnica", "#VentaConsultiva", "#TechnicalTranslation"]
 ---
 
 # Consultoría Geoestadística y Validación de Activos (Litio)
 
 ## Situación y Tarea (S-T)
-El cliente contaba con un reporte técnico de Recursos y Reservas elaborado por una consultora externa, pero carecía de la validación interna necesaria para confirmar la fiabilidad de las leyes y la clasificación de recursos declarada[cite: 1]. En proyectos de litio, la comprensión de la variabilidad espacial y la incertidumbre técnica es crítica para la valoración del activo y la toma de decisiones de inversión.
+El cliente contaba con un reporte técnico de Recursos y Reservas elaborado por una consultora externa, pero carecía de la validación interna necesaria para confirmar la fiabilidad de las leyes y la clasificación de recursos declarada. En proyectos de litio, la comprensión de la variabilidad espacial y la incertidumbre técnica es crítica para la valoración del activo y la toma de decisiones de inversión.
 
 **El Desafío:** Ejecutar una consultoría geoestadística integral para auditar y reproducir los resultados del tercero. Mi tarea fue procesar y comprender grandes volúmenes de información técnica de los reportes, realizar una **Shadow Estimation** independiente y transferir este conocimiento al equipo del cliente para eliminar la dependencia externa.
 

@@ -23,8 +23,5 @@ Maximizo la eficiencia operativa mediante la eliminación sistemática de desper
 * **Foco en el Valor (Customer-Centric):** Mentalidad obsesiva por eliminar todo lo que el cliente no perciba como valor o por lo que no esté dispuesto a "pagar" (en tiempo o dinero).
 * **Facilitación de Post-Mortems:** Habilidad para liderar revisiones de fallos en un ambiente de seguridad psicológica, enfocándose en el proceso y no en la culpa.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

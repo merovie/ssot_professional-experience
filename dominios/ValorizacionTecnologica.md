@@ -24,9 +24,5 @@ Análisis de los fundamentos financieros que determinan la rentabilidad y el val
 * **Comunicación Estratégica:** Maestría en explicar por qué un algoritmo es un activo financiero, no solo una herramienta de cálculo.
 * **Gestión de Activos Intangibles:** Entendimiento profundo de cómo la propiedad intelectual afecta el balance general y la valoración total de una compañía (Equity).
 
-
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

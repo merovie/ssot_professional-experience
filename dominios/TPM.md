@@ -27,7 +27,6 @@ Garantía de la integridad técnica y la eficiencia en la entrega de productos c
 * **Visión de Escalabilidad:** Habilidad para proyectar cómo las decisiones técnicas de hoy afectarán el crecimiento y la carga del sistema en el futuro.
 
 ## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
 
 ---
 [⬅️ Volver al Diccionario](./README.md)

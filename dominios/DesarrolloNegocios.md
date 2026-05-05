@@ -28,9 +28,5 @@ Diseño y opero la arquitectura de crecimiento que transforma capacidades técni
 * **Pensamiento de Ecosistema:** Integración de marketing, ventas y producto como un solo flujo continuo, evitando silos de información.
 * **Comunicación Persuasiva y Técnica:** Maestría en adaptar el mensaje según el canal (desde un post en LinkedIn hasta una defensa técnica en un congreso) para atraer y retener el interés de stakeholders críticos.
 
-
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

@@ -22,8 +22,5 @@ Implementación y supervisión de protocolos sistemáticos para garantizar la tr
 * **Integridad y Ética Profesional:** Firmeza técnica para reportar y corregir desviaciones en la calidad del dato, incluso bajo presiones de tiempo o producción.
 * **Atención al Detalle:** Mentalidad orientada a la detección de anomalías sutiles en los datos que podrían indicar problemas sistémicos en el muestreo.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

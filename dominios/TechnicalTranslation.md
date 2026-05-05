@@ -26,8 +26,5 @@ Actúo como el nodo de inteligencia que conecta la ciencia con la lógica digita
 * **Comunicación Centrada en el Aporte:** Enfoque constante en el "para qué" de la tecnología, priorizando la utilidad y el retorno sobre la complejidad técnica del producto.
 * **Delegación y Gestión de Equipos:** Habilidad para liderar expertos de diversas áreas, fomentando la autonomía y la alineación con el propósito del proyecto.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Digitalización de Procesos y Nexo Multidisciplinario](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](../README.md)

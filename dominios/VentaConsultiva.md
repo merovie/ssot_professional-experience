@@ -23,8 +23,5 @@ Transformo desafíos operativos e incertidumbres en proyectos de consultoría es
 * **Integridad y Ética Profesional:** La venta de consultoría se basa en la confianza; mantengo una transparencia total sobre lo que el dato puede y no puede resolver, fortaleciendo la relación a largo plazo.
 * **Adaptabilidad Multicultural:** Experiencia cerrando servicios de consultoría en 6 países, entendiendo las normativas y culturas de compra de corporaciones Tier 1.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](../README.md)

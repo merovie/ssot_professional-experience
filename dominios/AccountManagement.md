@@ -26,8 +26,5 @@ Fomento la **predictibilidad de los ingresos** y la **protección del Customer L
 * **Storytelling de Eficiencia:** Estructuración de informes y presentaciones finales que resaltan el beneficio operativo obtenido, facilitando la justificación interna del gasto por parte del cliente ante sus niveles ejecutivos.
 * **Resiliencia en Ciclos Largos:** Maestría en mantener el compromiso del cliente durante procesos de implementación extensos, gestionando expectativas y celebrando "quick wins".
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

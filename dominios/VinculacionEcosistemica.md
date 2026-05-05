@@ -23,10 +23,8 @@ Acelero los ciclos de innovación mediante la integración de capacidades extern
 * **Visión de Innovación Abierta:** Apertura mental para entender que no todo el conocimiento debe ser interno y saber cuándo es más eficiente colaborar que desarrollar desde cero.
 * **Traducción Estratégica:** Maestría en comunicar necesidades industriales complejas a investigadores y capacidades científicas abstractas a tomadores de decisión.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)
 
 
+s

@@ -26,8 +26,5 @@ Establecimiento del marco de autoridad, toma de decisiones y rendición de cuent
 * **Rigor Metodológico y Ético:** Firmeza en la aplicación de procesos de control y mantenimiento de la objetividad frente a los resultados de los proyectos.
 * **Comunicación Ejecutiva de Alto Impacto:** Capacidad para sintetizar el estado de múltiples proyectos complejos en reportes claros y accionables para el C-Level.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

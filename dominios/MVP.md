@@ -26,9 +26,6 @@ Transformo hipótesis validadas en productos funcionales mínimos que permiten r
 * **Comunicación de Expectativas:** Habilidad para gestionar la ansiedad de los stakeholders, explicando que el MVP es una herramienta de validación y no el producto final pulido.
 * **Foco en el Outcome:** Disciplina para mantener al equipo concentrado en resolver el problema del cliente, evitando añadir funcionalidades innecesarias ("Scope Creep").
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)
 

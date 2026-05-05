@@ -26,8 +26,5 @@ Maximización de la fluidez operacional y técnica mediante la identificación y
 * **Influencia sin Autoridad Formal:** Capacidad para movilizar a equipos y stakeholders hacia la resolución de problemas, incluso cuando no se tiene mando directo sobre ellos.
 * **Resiliencia y Gestión de la Presión:** Claridad mental para operar en escenarios de crisis donde los bloqueos comprometen hitos críticos o financieros.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

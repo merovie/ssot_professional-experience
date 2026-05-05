@@ -23,8 +23,5 @@ Implemento un proceso estructurado y semanal para decidir qué construir, asegur
 * **Humildad Intelectual:** Disposición para abandonar una solución propia si los experimentos demuestran que no resuelve el supuesto crítico.
 * **Facilitación Visual:** Maestría en el uso de herramientas como el OST para alinear a los stakeholders (C-level y técnicos) sobre por qué se priorizan ciertas tareas en el roadmap.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

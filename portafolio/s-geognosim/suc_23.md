@@ -3,7 +3,7 @@ ID: "suc_23"
 Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V1", "V3", "V4"]
-Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaDeProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProduct", "#TechnicalTransalation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
+Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaDeProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProduct", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
 ---
 
 ## Situación y Tarea (S-T)
@@ -29,4 +29,3 @@ Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#
 * **Viabilidad de Mercado:** Este salto en el rendimiento permitió que la tecnología fuera apta para el uso industrial, eliminando la principal barrera de adopción técnica.
 * **Capitalización de I+D:** Obtención de los 127 millones de CLP que financiaron el desarrollo de este nuevo motor algorítmico sin comprometer recursos propios.
 * **Maduración del Activo:** Elevación comprobable del TRL de la solución, posicionándola como una herramienta competitiva frente a estándares internacionales de analítica minera.
-

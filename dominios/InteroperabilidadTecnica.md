@@ -34,6 +34,5 @@ Actúo como el integrador crítico que alinea los objetivos divergentes de las d
 * **Escucha Activa y Diagnóstico de Silos:** Identificación precisa de dónde se rompe la comunicación entre áreas y quién posee la información clave para destrabar el proceso.
 * **Navegación Estratégica (Saber Preguntar):** Capacidad de entrar en cualquier área (Marketing, Matemática o Mina) y hacer la pregunta correcta al experto adecuado y extraer el dato crítico en cualquier área para destrabar cuellos de botella
 
-
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Digitalización de Procesos y Nexo Multidisciplinario](../proyectos/PROY-AU.md)
+---
+[⬅️ Volver al Diccionario](README.md)

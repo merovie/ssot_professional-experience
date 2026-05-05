@@ -29,9 +29,6 @@ Transformo la visión del producto en una hoja de ruta dinámica que alinea al e
 * **Comunicación de Incertidumbre:** Maestría en explicar a los stakeholders que el roadmap es una hipótesis de trabajo que cambia con el aprendizaje del cliente.
 * **Foco en el Valor:** Disciplina para medir el éxito del roadmap por el impacto en el negocio y no por la cantidad de código entregado.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)
 

@@ -23,8 +23,5 @@ Maximizo la capacidad de ejecución de I+D mediante el levantamiento de capital 
 * **Visión Ecosistémica:** Entendimiento profundo de los actores clave en el sistema nacional de innovación para generar alianzas de alto valor.
 * **Persistencia Estratégica:** Resiliencia para iterar propuestas y ajustar tesis según el feedback de evaluaciones previas para asegurar la adjudicación.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

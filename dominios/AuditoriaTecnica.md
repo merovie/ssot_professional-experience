@@ -27,9 +27,5 @@ Evaluación sistemática e independiente de procesos, datos y modelos para garan
 * **Comprensión Holística del Proceso Minero:** Visión sistémica que permite entender cómo un dato geológico mal tomado impacta en la declaración financiera, facilitando una auditoría que entiende el "negocio" además de la "roca".
 * **Gestión de Relaciones con Consultoras Externas:** Capacidad de interlocución técnica con terceras empresas, manteniendo una postura crítica pero colaborativa para elevar el estándar de los entregables del proyecto.
 
-
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

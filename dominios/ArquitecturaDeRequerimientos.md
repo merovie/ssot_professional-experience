@@ -26,9 +26,6 @@ Orquestación y diseño del ecosistema de necesidades que asegura la alineación
 * **Negociación y Gestión de Prioridades:** Arbitraje técnico para resolver conflictos entre requerimientos contrapuestos, alineando siempre la solución con los objetivos estratégicos más críticos.
 * **Síntesis de Información Compleja:** Capacidad para procesar documentación masiva y extraer los puntos de quiebre o "Red Flags" que podrían comprometer la viabilidad de la arquitectura.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)
 ```

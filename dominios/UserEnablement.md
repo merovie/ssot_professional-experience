@@ -24,7 +24,6 @@ Reduzco la brecha entre la capacidad tecnológica y la adopción operativa. Mi e
 * **Mentalidad de Autoservicio (Self-Serve):** Orientación a diseñar procesos de ayuda que permitan al usuario resolver sus problemas de forma autónoma.
 
 ## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
 
 ---
 [⬅️ Volver al Diccionario](./README.md)

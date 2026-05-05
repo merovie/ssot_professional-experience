@@ -19,3 +19,6 @@ Transformo la gestión de HSE de un marco de cumplimiento normativo en un pilar 
 * **Articulación de Equipos (Stakeholders):** Alineamiento de equipos multidisciplinarios y contratistas bajo estándares de seguridad corporativos.
 * **Reportabilidad Analítica (RAG):** Implementación de indicadores clave (KPIs) para el monitoreo preventivo de condiciones de riesgo.
 * **Cultura de Autocuidado:** Promoción de la seguridad como un valor transversal en la gestión de proyectos de innovación y tecnología.
+
+---
+[⬅️ Volver al Diccionario](README.md)

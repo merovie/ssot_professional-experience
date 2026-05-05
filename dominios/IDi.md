@@ -23,8 +23,5 @@ Aseguro la viabilidad y el retorno de la inversión en proyectos de base cientí
 * **Navegación Táctica de Fondos Públicos:** Conocimiento profundo de la burocracia y los estándares de evaluación de agencias gubernamentales de ciencia y tecnología.
 * **Resiliencia ante el Fallo Técnico:** Capacidad de gestionar la moral del equipo y las expectativas de la gerencia cuando un experimento no entrega el resultado esperado, extrayendo el aprendizaje necesario para pivotar.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

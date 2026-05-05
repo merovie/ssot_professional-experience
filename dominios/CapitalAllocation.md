@@ -23,8 +23,5 @@ Aseguro la eficiencia del capital invertido en innovación mediante una distribu
 * **Visión de Portfolio:** Maestría en gestionar múltiples líneas de gasto sin perder el foco en el objetivo estratégico global de la vertical de innovación.
 * **Transparencia en la Rendición:** Disciplina en el reporte del uso del capital tanto para inversionistas privados como para entidades gubernamentales.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

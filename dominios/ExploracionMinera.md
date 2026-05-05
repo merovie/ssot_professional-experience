@@ -20,8 +20,5 @@ Ejecución y supervisión de programas de exploración geológica orientados al 
 * **Toma de Decisiones bajo Incertidumbre:** Habilidad para ajustar programas de exploración en tiempo real basados en los resultados visuales de los sondajes en curso.
 * **Resiliencia y Adaptabilidad:** Capacidad de gestión y ejecución técnica en campañas de terreno prolongadas y climas adversos.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)

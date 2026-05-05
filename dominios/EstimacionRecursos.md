@@ -28,8 +28,5 @@ Competencia experta en la cuantificación de la variabilidad espacial y el riesg
 * **Colaboración Multidisciplinaria:** Capacidad de trabajar en el límite entre geología, planificación minera para alinear el modelo con los objetivos del Plan Minero.
 * **Traducción de Riesgos:** Capacidad para comunicar la incertidumbre técnica en términos de impacto económico para el negocio.
 
-## 📂 Evidencia en Proyectos
-* [[PROY-AU] Evaluación de Riesgo de Plan Minero (Oro)](../proyectos/PROY-AU.md)
-
 ---
 [⬅️ Volver al Diccionario](./README.md)
