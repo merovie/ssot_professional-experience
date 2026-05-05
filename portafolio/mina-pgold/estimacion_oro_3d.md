@@ -3,7 +3,7 @@ ID: "estimacion_oro_3d"
 Empresa: "premier.md"
 Macro_Asociado: "mina_pgold"
 Verticales: ["V1"]
-Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#QAQC", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse"]
 ---
 
 # Actualización de Modelos de Bloques y Cuantificación (Mina Subterránea)

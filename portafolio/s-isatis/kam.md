@@ -3,17 +3,10 @@ ID: "kam"
 Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
-Dominios: [ "AccountManagement", "Fidelización", "StakeholderManagement", "VentaConsultiva", "TechnicalTranslation", "UserEnablement", "VinculacionEcosistemica", "GobernanzaProyectos"]
+Dominios: ["#AccountManagement", "#Fidelización", "#StakeholderManagement", "#VentaConsultiva", "#TechnicalTranslation", "#UserEnablement", "#VinculacionEcosistemica", "#GobernanzaProyectos"]
 ---
 
 # Gestión de Cuentas Estratégicas (Key Account Management)
-
-| Atributo | Detalle |
-| :--- | :--- |
-| **Clientes Tier 1** | Codelco, Antofagasta Minerals, Fresnillo (Peñoles), Glencore, Aura Minerals |
-| **Clientes Mid-Tier/Consultoría** | Geoestima, Geoinnova |
-| **Alcance Regional** | Chile, México, Perú y Ecuador |
-| **KPI Clave** | 100% de retención de clientes |
 
 ## Situación y Tarea (S-T)
 La industria minera en LATAM opera en entornos de alta exigencia técnica y contractual, donde la confianza en la herramienta es tan crítica como el soporte humano que la respalda. Mi tarea consistió en liderar la estrategia de acompañamiento para las cuentas más relevantes de la región, transformando la relación proveedor-cliente en una alianza estratégica basada en la aplicabilidad real del software en faena. La gestión de cuentas Tier 1 en Latinoamérica no solo requería excelencia técnica, sino una gobernanza corporativa fluida con la casa matriz en Francia y el centro operativo en Brasil. Mi tarea fue dirigir equipos multidisciplinarios y multiculturales, actuando como el nexo estratégico para lograr la autonomía de la región LATAM frente a la estructura global de la organización.

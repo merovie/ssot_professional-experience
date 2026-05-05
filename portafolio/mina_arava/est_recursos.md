@@ -3,7 +3,7 @@ ID: "est_recursos"
 Empresa: "arava"
 Macro_Asociado: "mina_arava"
 Verticales: ["V1"]
-Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#QAQC", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse"]
 ---
 
 # Actualización de Modelo de Bloques y Estimación por Kriging

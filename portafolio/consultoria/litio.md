@@ -1,11 +1,10 @@
 ---
 ID: "litio"
 Empresa: "gnv"
-Macro_Asociado: "consultoría"
+Macro_Asociado: "consultoria"
 Verticales: ["V1"]
-Dominios: ["EstimacionRecursos", "Auditoría Técnica", "VentaConsultiva"]
-Software: Isatis.neo, Leapfrog Edge
-Commodity: Litio (Estático)
+Dominios: ["#EstimacionRecursos", "#AuditoriaTecnica", "#VentaConsultiva"]
+Commodity: Litio (Estatico)
 ---
 
 # Consultoría Geoestadística y Validación de Activos (Litio)

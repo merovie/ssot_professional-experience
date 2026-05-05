@@ -3,7 +3,7 @@ ID: "propuestas"
 Empresa: "geovariances"
 Macro_Asociado: "s-isatis"
 Verticales: ["V1", "V2", "V4"]
-Dominios: ["EstimacionRecursos", "VentaConsultiva", "AccountManagement", "DesarrolloNegocios", "StakeholderManagement", "ValorizacionTecnologica", "ReportingRAG", "TechnicalTransalation"]
+Dominios: ["#EstimacionRecursos", "#VentaConsultiva", "#AccountManagement", "#DesarrolloNegocios", "#StakeholderManagement", "#ValorizacionTecnologica", "#ReportingRAG", "#TechnicalTransalation"]
 ---
 
 # Articulación de Propuestas Técnico-Financieras y Negociación

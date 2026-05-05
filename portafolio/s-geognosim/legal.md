@@ -3,7 +3,7 @@ ID: "legal"
 Empresa: "gnv"
 Macro_Asociado: "s-geognosim"
 Verticales: ["V2", "V3", "V4"]
-Dominios: ["StakeholderManagement", "FondosPublicos", "MaduracionTecnologica", "TechnicalTranslation", "RemocionDeBloqueos"]
+Dominios: ["#StakeholderManagement", "#FondosPublicos", "#MaduracionTecnologica", "#TechnicalTranslation", "#RemocionDeBloqueos"]
 ---
 
 ## Situación y Tarea (S-T)

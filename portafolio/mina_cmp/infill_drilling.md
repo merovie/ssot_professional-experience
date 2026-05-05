@@ -3,7 +3,7 @@ ID: "estimacion_mp"
 Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1"]
-Dominios: ["OreControl", "StakeholderManagement", "TechnicalTranslation", "GobernanzaProyectos", "hse", "InteroperabilidadTecnica", "RemocionDeBloqueos"]
+Dominios: ["#OreControl", "#StakeholderManagement", "#TechnicalTranslation", "#GobernanzaProyectos", "#hse", "#InteroperabilidadTecnica", "#RemocionDeBloqueos"]
 ---
 
 # Campaña de Infill Drilling: Actualización del Modelo Geometalúrgico

@@ -3,7 +3,7 @@ ID: "pyt"
 Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V4"]
-Dominios: ["OreControl", "StakeholderManagement", "TechnicalTranslation", "GobernanzaProyectos", "hse", "InteroperabilidadTecnica", "RemocionDeBloqueos", "EstimacionRecursos"]
+Dominios: ["#OreControl", "#StakeholderManagement", "#TechnicalTranslation", "#GobernanzaProyectos", "#hse", "#InteroperabilidadTecnica", "#RemocionDeBloqueos", "#EstimacionRecursos"]
 ---
 
 #  Geología Aplicada a Perforación y Tronadura (PyT)

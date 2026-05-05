@@ -3,7 +3,7 @@ ID: "estimacion_cp"
 Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1", "V3"]
-Dominios: ["EstimacionRecursos", "TechnicalTranslation", "MVP", "OreControl", "QAQC", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#EstimacionRecursos", "#TechnicalTranslation", "#MVP", "#OreControl", "#QAQC", "#InteroperabilidadTecnica", "hse", "#StakeholderManagement"]
 ---
 
 # Estimación de Corto Plazo y Caracterización Textural
@@ -32,6 +32,3 @@ Implementé un riguroso proceso de evaluación técnica que incluyó:
 * **Impacto en Reconciliación:** La adopción de este flujo mejoró la confiabilidad de los pronósticos de producción diarios y semanales al estar basados en un modelo de leyes con mayor rigor científico.
 * **Superación del Estándar Tradicional:** Las mejoras halladas mediante Kriging frente al IDW validaron un cambio metodológico hacia modelos más robustos y menos suavizados.
 * **Sustento del Plan Minero:** Se garantizó que la información entregada a planificación fuera accionable, reduciendo las desviaciones en planta debido a variaciones texturales no previstas.
-
-
-

@@ -3,7 +3,7 @@ ID: "mvp"
 Empresa: "gnv"
 Macro_Asociado: "s-stocks"
 Verticales: ["V3", "V4"]
-Dominios: ["#MaduraciónTecnológica", "#EstimaciónRecursos", "#TechnicalTranslation", "#MVP", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#QAQC", "#ProductDiscovery", "#IDi", "#UserEnablement", "#DesarrolloNegocios"]
+Dominios: ["#MaduracionTecnologica", "#EstimacionRecursos", "#TechnicalTranslation", "#MVP", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#QAQC", "#ProductDiscovery", "#IDi", "#UserEnablement", "#DesarrolloNegocios"]
 ---
 
 # Orquestación Técnica y Gestión de Interfaz (Desarrollo MVP Cloud)

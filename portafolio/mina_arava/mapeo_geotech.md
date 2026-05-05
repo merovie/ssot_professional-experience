@@ -3,7 +3,7 @@ ID: "mapeo_geotech"
 Empresa: "arava"
 Macro_Asociado: "mina_arava"
 Verticales: ["V1"]
-Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#QAQC", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse"]
 ---
 
 # Caracterización Geomecánica para la Construcción de Labores

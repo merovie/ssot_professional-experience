@@ -3,7 +3,7 @@ ID: "levantamiento_geologico"
 Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1"]
-Dominios: ["QAQC", "OreControl", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse", "GobernanzaProyectos"]
+Dominios: ["#QAQC", "#OreControl", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse", "#GobernanzaProyectos"]
 ---
 
 # Levantamiento Geológico de Frentes y Control Operativo

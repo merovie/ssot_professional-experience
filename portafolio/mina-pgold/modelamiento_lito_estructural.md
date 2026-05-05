@@ -3,7 +3,7 @@ ID: "modelamiento_lito_estructural"
 Empresa: "premier.md"
 Macro_Asociado: "mina_pgold"
 Verticales: ["V1"]
-Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#QAQC", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse"]
 ---
 
 # Modelamiento Lito-Estructural y Targeting de Exploración

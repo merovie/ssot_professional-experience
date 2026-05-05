@@ -3,7 +3,7 @@ ID: "estimacion_mp"
 Empresa: "cmp"
 Macro_Asociado: "mina_cmp"
 Verticales: ["V1"]
-Dominios: ["QAQC", "OreControl", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica"]
+Dominios: ["#QAQC", "#OreControl", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica"]
 ---
 
 # Estimación de Recursos de Mediano Plazo (Sondajes Multibanco y Diseño de Malla)

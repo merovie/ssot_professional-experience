@@ -3,7 +3,7 @@ ID: "reconciliacion_y_pronosticos"
 Empresa: "premier.md"
 Macro_Asociado: "mina_pgold"
 Verticales: ["V1"]
-Dominios: ["QAQC", "AuditoriaTecnica", "EstimacionRecursos", "StakeholderManagement", "TechnicalTranslation", "InteroperabilidadTecnica", "hse"]
+Dominios: ["#QAQC", "#AuditoriaTecnica", "#EstimacionRecursos", "#StakeholderManagement", "#TechnicalTranslation", "#InteroperabilidadTecnica", "#hse"]
 ---
 
 # Reconciliación Modelo-Mina-Planta y Pronósticos Mensuales
