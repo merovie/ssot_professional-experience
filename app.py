@@ -14,7 +14,7 @@ else:
     st.error("Falta la configuración de la API Key en los secretos de Streamlit.")
     st.stop()
 
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-2.5-flash')
 
 # --- CARGA DEL REPOSITORIO (SSoT) ---
 def cargar_contexto_ssot():
