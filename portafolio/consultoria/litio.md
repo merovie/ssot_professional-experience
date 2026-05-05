@@ -3,7 +3,7 @@ ID: "litio"
 Empresa: "gnv"
 Macro_Asociado: "consultoria"
 Verticales: ["V1"]
-Dominios: ["#EstimacionRecursos", "#AuditoriaTecnica", "#VentaConsultiva", "#TechnicalTranslation"]
+Dominios: ["#EstimacionRecursos", "#AuditoriaTecnica", "#VentaConsultiva", "#TechnicalTranslation", "#Lean"]
 ---
 
 # Consultoría Geoestadística y Validación de Activos (Litio)

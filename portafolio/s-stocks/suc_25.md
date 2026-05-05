@@ -3,7 +3,7 @@ ID: "suc_25"
 Empresa: "gnv"
 Macro_Asociado: "s-stocks"
 Verticales: ["V1", "V3", "V4"]
-Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
+Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica", "#Lean"]
 ---
 
 # Financiamiento para Migración Cloud de Solución Analítica

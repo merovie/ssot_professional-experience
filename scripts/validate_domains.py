@@ -50,7 +50,7 @@ def validar_conexiones_dominios():
     # 3. Resumen final
     print("\n" + "="*40)
     print(f"📊 Resumen de Validación:")
-    print(f"   - Archivos analizados: {archivos_processed}")
+    print(f"   - Archivos analizados: {archivos_procesados}")
     print(f"   - Archivos de dominio en sistema: {len(existentes)}")
     
     if errores_encontrados == 0:

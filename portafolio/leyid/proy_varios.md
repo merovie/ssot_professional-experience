@@ -3,7 +3,7 @@ ID: "proy_varios"
 Empresa: "gnv"
 Macro_Asociado: "leyid"
 Verticales: ["V1", "V3", "V4"]
-Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica"]
+Dominios: ["#CapitalAllocation", "#FondosPublicos", "#MaduracionTecnologica", "#StakeholderManagement", "#TPM", "#RemocionDeBloqueos", "#GobernanzaProyectos", "#IDi", "#MVP", "#ReportingRAG", "#RoadmapProducto", "#TechnicalTranslation", "#VinculacionEcosistemica", "#ValorizacionTecnologica", "#Lean"]
 ---
 
 # Certificación de Portafolio de Innovación (Ley I+D)

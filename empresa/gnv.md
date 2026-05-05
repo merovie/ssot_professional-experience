@@ -31,7 +31,7 @@
 
 ### 10. [SEO](../portafolio/s-geognosim/prov_seo.md)
 
-### 11. [Reinyección de salmuera](../portafolio/nm_spde4d/chi.md)
+### 11. [Reinyección de salmuera](../portafolio/nm-spde4d/chpi.md)
 
 ### 12. [Desarrollo de MVP](../portafolio/s-stocks/mvp.md)
 
